@@ -1,0 +1,1161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A journey into the country being a dialogue between an English Protestant physitian and an English papist : wherein the proper state of the popish controversy is discoursed : with reference (only) to the government of England in church and state, in some answer to Peter Walsh, and pursuant to the directions of a person of honor.</title>
+            <author>Creamer, Charles, b. 1632?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 109 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34950</idno>
+            <idno type="STC">Wing C6867</idno>
+            <idno type="STC">ESTC R24786</idno>
+            <idno type="EEBO-CITATION">08495711</idno>
+            <idno type="OCLC">ocm 08495711</idno>
+            <idno type="VID">41405</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34950)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41405)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1253:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A journey into the country being a dialogue between an English Protestant physitian and an English papist : wherein the proper state of the popish controversy is discoursed : with reference (only) to the government of England in church and state, in some answer to Peter Walsh, and pursuant to the directions of a person of honor.</title>
+                  <author>Creamer, Charles, b. 1632?</author>
+               </titleStmt>
+               <extent>[6], 38 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Brome,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Charles Creamer--NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Walsh, Peter, 1618?-1688. --  Controversial letters.</term>
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Anti-Catholicism --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41405:1"/>
+            <pb facs="tcp:41405:1" rendition="simple:additions"/>
+            <p>A JOURNEY INTO THE COUNTRY; BEING A DIALOGUE Between an <hi>Engliſh</hi> PROTESTANT Phyſitian AND AN <hi>Engliſh</hi> PAPIST: WHEREIN The proper State of the <hi>Popiſh Controverſy</hi> is diſcourſed.</p>
+            <p>With Reference (only) to the Government of ENG<g ref="char:EOLhyphen"/>LAND in Church and State.</p>
+            <p>In ſome Anſwer to <hi>Peter Walſh,</hi> and purſuant to the Directions of a Perſon of Honor.</p>
+            <q>
+               <hi>Papa ſtupor Mundi, non Deus, non Homo, ſed utrumque.</hi> Gloſſ. in proem. <bibl>Clem. Moſcan. de Rom. Pont. l. 1. c. 11.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Brome</hi> at the Gun at the Weſt-end of St. <hi>Pauls.</hi> M DC LXXV.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:41405:2"/>
+            <pb facs="tcp:41405:2"/>
+            <head>THE PUBLISHER TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HIS enſuing Diſcourſe ſeems to be wrote about the time, when (by Proclamation) Papiſts were not to reſide within ten Miles of <hi>Lon<g ref="char:EOLhyphen"/>don;</hi> and 'tis not yet out of Seaſon, nor will be, till our Controverſies with the Papiſts be throughly and truly <hi>ſtated;</hi> after which it cannot be long ere they be <hi>en<g ref="char:EOLhyphen"/>ded:</hi> I ſee not how <hi>Engliſh</hi> men have to do with the <hi>Romiſh</hi> Church or State, their Laws, Doctrines or Diſci<g ref="char:EOLhyphen"/>pline; therefore while they have been exerciſing us with Diſ<g ref="char:EOLhyphen"/>putes about thoſe things, they had two Ends, <hi>(viz.)</hi> Either to lead us into ſome <hi>Precipice,</hi> or to Lap-wing us from the proper tendency of our Enquiries, which in truth is our home Concerns, and ſo a Controverſy only between <hi>Engliſh</hi> Pa<g ref="char:EOLhyphen"/>piſts and <hi>Engliſh</hi> Catholicks (called <hi>Proteſtants</hi> for Di<g ref="char:EOLhyphen"/>ſtinction) with reference to their Prince, who governeth by Laws diverſe from all the Nations of the World, and ſo is not to be argu'd out of his Right by any Parallel from other Kingdoms: But as a Perſon of Honour hath late<g ref="char:EOLhyphen"/>ly begun, ſo this Author has ſet forward the proper Conteſt (still meaning) between <hi>Engliſh</hi> Papiſts and <hi>Engliſh</hi>
+               <pb facs="tcp:41405:3"/> Protestants, the latter of whom affirm as follows.</p>
+            <p n="1">1. That the King of <hi>England</hi> is Emperour and ſole Monarch of <hi>England,</hi> and eſtabliſhed by a Law diverſe from all other Nations.</p>
+            <p n="2">2. That the Church of <hi>England</hi> has all the Rights of a Patriarchal See, from which lies no Appeal to any o<g ref="char:EOLhyphen"/>ther Patriarch.</p>
+            <p n="3">3. That all Church Authorities and Juriſdictions (with reference to this life and the ends of Government) are right<g ref="char:EOLhyphen"/>fully derived from the King of <hi>England,</hi> being naturally in him as a mixt Perſon, and <hi>Cuſtos utriuſque tabulae,</hi> according to <hi>Rom. 13.</hi>
+            </p>
+            <p n="4">4. That he is a Traytor that denyes this, or affirms any forreign Prince, Prelate or Potentate, to have any Juriſdicti<g ref="char:EOLhyphen"/>on in <hi>England, &amp;c.</hi> or diminiſhes the Kings Legal Style.</p>
+            <p n="5">5. There was naturally no difference between Church and State, as to Juriſdictions, until Chriſtian Monarchs divided Juriſdictions, and delegated Civil and Eccleſia<g ref="char:EOLhyphen"/>stical Perſons to take Conuſance, and judge of Cauſes ſepa<g ref="char:EOLhyphen"/>rate, and thoſe Juriſdictions are called Civil and Eccleſia<g ref="char:EOLhyphen"/>ſtical in reſpect of the Delegates only, and not in reſpect of the Cauſes whereof they take Conuſance and Judge.</p>
+            <p n="6">6. The King hath power (naturally) within his Do<g ref="char:EOLhyphen"/>minions (by ſuch his delegates reſpectively) to declare
+<pb facs="tcp:41405:3"/> what are Articles of Faith according to Scripture and not otherwiſe, and to make and interpret Laws for the Govern<g ref="char:EOLhyphen"/>ment of Church and State, to appoint Forms of Worſhip and Diſcipline, not against the word of God, to add to ſuch Laws, Sanctions, to puniſh Offenders againſt ſuch Laws.</p>
+            <p n="7">7. Theſe Rights and Powers of the King are Inherent in him, as Eſsential Flowers of his Crown, as antient as the Crown it ſelf, in which his Subjects are ſo intereſſed with reference to their Propriety in his perſonal Govern<g ref="char:EOLhyphen"/>ment by Original Conſtitutions, as the King cannot (by any rightf<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l Act he can do) grant them away to any Forreign Power, Perſon, or Potentate, or to others but by way of de<g ref="char:EOLhyphen"/>legation, as to the declarative and executive Part.</p>
+            <p n="8">8. What ever of theſe Rights and Powers any King of <hi>England</hi> has at any time allowed to the Pope, has been ſo allowed againſt the Fundamental Law of the Land, and ſo was utterly void, and not obliging to any Succeſſors Kings of <hi>England, &amp;c.</hi>
+            </p>
+            <p n="9">9. That all Papiſts, denying the Juriſdiction of the Pope here, both in Civil and Eccleſiaſtical matters, yet holding Communion with the Church of Rome in matters of worſhip, againſt our eſtabliſhed Laws, are grievous Offenders.</p>
+            <p n="10">10. That paſſive Obedience, is no Obedience: In as much as true Obedience muſt be ſpontaneous, intire, active,
+<pb facs="tcp:41405:4"/> and with reſpect to the Law of Nature (antecedent to the Kings Command) which injoyns intire Obedience to the Kings lawful Command, <hi>for the Lords ſake,</hi> not barely for the Command ſake.</p>
+            <p n="11">11. That the King cannot diſpenſe with, or free the Subject from ſuch natural Obedience, but only from the penalty added by, and annexed to, his Command.</p>
+            <p n="12">12. That the King cannot tolerate here the Exerciſe of the Popiſh Worſhip, the ſame being ſuperſtitious and ido<g ref="char:EOLhyphen"/>latrous, and againſt the Eſtabliſhed Laws.</p>
+            <p n="13">13. That no <hi>Engliſh</hi> man whatſoever (how far ſo e<g ref="char:EOLhyphen"/>ver they pretend to differ from or diſown the Pope) can give reaſonable ſecurity for the Preſervation of the Peace of the Church or State by them, unleſs they ſwear due Allegiance to the King, and by Oath declare his Supremacy in the Church, and by that Oath renounce all the Popes Authority whatſoever over them, and his Power to diſpenſe with that Oath, and that they will be obedient to all the Kings Laws.</p>
+            <p n="14">14. That an <hi>Engliſh</hi> man in Prieſts Orders from the Church of <hi>Rome</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xcommunicated or cenſur'd by tha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Church, and yet holding Communion with that Church, i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not to be truſted here, although he takes the Oaths above mentioned<g ref="char:punc">▪</g> In as much as he is of no Church, being wilful<g ref="char:EOLhyphen"/>ly divided from ours, and by Cenſure divided from the o<g ref="char:EOLhyphen"/>ther,
+<pb facs="tcp:41405:4"/> and ſo diſobedient to all Governors, a lawleſs and per<g ref="char:EOLhyphen"/>jured Perſon, and ſo in a preſent State of Damnation, nor is any <hi>Romiſh</hi> Prieſt to be trusted here, though he takes the ſaid Oaths, in as much as he hath taken a former Oath to the contrary not renounced.</p>
+            <p n="15">15. That ſince no <hi>Engliſh</hi> underſtanding Papiſt doth abſent, or at any time hath abſented from our Communion and Worſhip out of pure Judgment and Reaſon: But pure<g ref="char:EOLhyphen"/>ly by reaſon of the old inhibition of the Pope in Q. <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi>'s time (for before that they joyn'd with us and were called Church Papiſts) and at the ſame time they (in op<g ref="char:EOLhyphen"/>poſition to our Kings Laws) do ſo firmly yield to that Inhi<g ref="char:EOLhyphen"/>bition, and diſobey ſeveral other Commands of the Pope, e<g ref="char:EOLhyphen"/>ven in ſome matters of Faith; It's refer'd to the wiſdom of the King with the advice of his ſaid Delegates, whether ſuch co<gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ious Offenders be with any ſafety to be tolerated, or even con<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iv'd at here.</p>
+            <p n="16">16. That the Church and Court of <hi>Rome</hi> are ſo incor<g ref="char:EOLhyphen"/>porated together, that if Communion with that Church be ad<g ref="char:EOLhyphen"/>mitted or tolerated, here it muſt<g ref="char:punc">▪</g> neceſsarily be introductory of that Courts <g ref="char:V">Ʋ</g>ſurpation.</p>
+            <p n="17">17. That there are now great differences of opinion a<g ref="char:EOLhyphen"/>mong the <hi>Engliſh</hi> Papists themſelves with reference to the Pope: And if they were all of the mind with the most mo<g ref="char:EOLhyphen"/>derate
+<pb facs="tcp:41405:5"/> Pretenders, yet what Security can be given, that they will alwayes be ſo, or that they ſhall be ſucceeded by others of the ſame Judgment, or is it poſſible, that the Pope will grant Orders to ſuch, as he now cenſures, as theſe are, ſo that an Admittance of theſe few stragling Pretenders to favour, as it is against Religion to tolerate Perſons in their preſent deſperate State, ſo it is certainly againſt all Chriſtian Prudence and Policy of State to allow the unaccountable pretences, to accept the faithleſs Ingagements, or to credit the unintelligible Faith of thoſe Papiſtical <hi>Nothings.</hi>
+            </p>
+            <p>Theſe things our Author points at in this Diſcourſe, all which (if oppoſed or doubted of) will be more at large maintained, and the matters of Fact therein cleared by a<g ref="char:EOLhyphen"/>nother manner of Testimony, then that of bringing the Vir<g ref="char:EOLhyphen"/>gin <hi>Mary's</hi> Chappel from <hi>Nazareth</hi> to <hi>Dalmatia,</hi> and from thence to <hi>Loretto;</hi> nay, let any one of the five hun<g ref="char:EOLhyphen"/>dred Native Prieſts, that <hi>Peter Walſh</hi> ſaies lately were in <hi>England,</hi> undertake any one Link of this Chain, which con<g ref="char:EOLhyphen"/>duces to the End of the Controverſy, and the whole Cauſe ſhall depend on the ſucceſs: So that this. <hi>Book</hi> ſerves to ſtate the Controverſy aright, and in ſome meaſure to confirm the reformed Catholicks, to convince the Heteroclite Ad<g ref="char:EOLhyphen"/>verſaries and to justify our Kings neceſſary Cautions againſt the Invaders of his loyal and establiſh'd Authority.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:41405:5"/>
+            <head>A JOURNEY INTO THE COUNTRY, &amp;c.</head>
+            <sp>
+               <speaker>
+                  <seg rend="decorInit">P</seg>APIST,</speaker>
+               <p>Well overtaken Sir, how far travail you this way?</p>
+            </sp>
+            <sp>
+               <speaker>Phyſitian,</speaker>
+               <p>Truly Sir, I cannot well tell; I know the place I am going to, but know not how far 'tis thi<g ref="char:EOLhyphen"/>ther.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Perhaps then two ſuch Travailers have ſel<g ref="char:EOLhyphen"/>dom met, for I know how far I am to travail, but know not the place I go to.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Methinks Sir, you undertake an odd Journey. Pray what occaſions it, and the uncertainty thereof.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Sir, have you not heard of <hi>Ogilbies</hi> Wheel, that has run o<g ref="char:EOLhyphen"/>ver all the great Roads in <hi>England?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Yes, that was to aſcertain the Miles for Travailers, and is to be inſerted into his <hi>Britannia,</hi> being one part of his <hi>Atlas</hi> now coming forth, a very laborious and uſeful Work.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Whether the deſign was to advantage <hi>Travailers</hi> or the <hi>Poſt-Office,</hi> I'le not determine, but ſure I am it's become prejudicial to me; for here is the Caſe, I am obliged to go ten miles from <hi>London,</hi> and ſo thought to have gone to <hi>Rumford:</hi> But it ſeems by that Wheel, <hi>Rumford</hi> is made 12 miles off from <hi>London,</hi> and then if I ſtay 2 miles ſhort, what know I where I ſhall lodge:</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>I believe Sir, your head is full of <hi>Proclamations,</hi> and that troubles you more then the Wheel.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I can bear the <hi>Proclamation</hi> patiently, and be obedient to the Kings Command as well as any Subject he has.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Say you ſo? were I in your Caſe I ſhould chuſe to go to <hi>Rumford,</hi> and not take up at <hi>Cold</hi> lodging, for while you are com<g ref="char:EOLhyphen"/>manded to go ten Miles from <hi>London,</hi> you may go as far as you pleaſe beyond it.</p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:41405:6"/>
+               <speaker>Pap.</speaker>
+               <p>If I had not been commanded to go ten miles, I would not have gone it, and being commanded to go ſo far, I am not ſuch a fool as to go further, for ſomething that I know.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>What think you then of what is ſaid, <hi>If any one compels you to go with him a Mile, go with him twain.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Would you think it reaſonable, if one going five Miles for a Phyſitian, that another ſhould compel him to go ten Miles ano<g ref="char:EOLhyphen"/>ther way.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>No, but it's meant if any <hi>by the power of the Magiſtrate com<g ref="char:EOLhyphen"/>pels</hi> you to go a Mile, ſhew your Obedience to the Magiſtrates Command in doing more rather then leſs, or not at all, for ſo the word in the Original for <hi>Compel</hi> ſignifies, and you may ſee a Ser<g ref="char:EOLhyphen"/>mon on that Text. 13. <hi>Rom.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Well Sir, make what Interpretation of it you pleaſe, I know who can do it better, and I have a ſurer <hi>Guid</hi> to truſt to, that can<g ref="char:EOLhyphen"/>not <hi>Err.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>I think I underſtand you <hi>Sir,</hi> and what perſwaſion you are of.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Pray then, Sir, let me underſtand who <hi>you</hi> are, and what oc<g ref="char:EOLhyphen"/>caſions your Journey.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Why, I am a Proteſtant Phyſitian, going to viſit a patient ſome Miles onward to <hi>Rumford.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Methinks then, Sir, you ſhould make more haſte; ſtrange! how lazy and indifferent are Phyſitians grown in the great Con<g ref="char:EOLhyphen"/>cernment of mens Lives: And all this Evil is occaſioned by the <hi>Re<g ref="char:EOLhyphen"/>formation,</hi> as it's called, which might better have been in <hi>Phyſick</hi> then <hi>Religion.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>As for the Reformation in Religion, I ſee not how it af<g ref="char:EOLhyphen"/>fects the Practice of Phyſick; but for my not making more haſte to my Patient you muſt know <hi>Firſt,</hi> That too violent Motions may irritate the pungent and ſaline particles hid in the Nervous Juice, and cauſe a Fermentation in the Serum of the blood, which prey<g ref="char:EOLhyphen"/>ing on the vital Spirits will conclude in a malignant and putrid feaver: But by a Sedate Managery of the parts, the morbifick matter remains undiſturbed, until it may be exterminated by pro<g ref="char:EOLhyphen"/>per Evacuations (<hi>viz.</hi>) Emeticks, Diureticks, Sudorificks, or ordi<g ref="char:EOLhyphen"/>nary Purgations. <hi>Secondly,</hi> The Diſtemper my Patient labours un<g ref="char:EOLhyphen"/>der appears by the Symptomes, indicated by the Vein, to be a <hi>Chro<g ref="char:EOLhyphen"/>nick</hi> Diſtemper, and become <hi>Cathectical,</hi> and ſo not to be accoſted by <hi>Acute</hi> Medicines, and cured of a ſuddain. <hi>Thirdly</hi> and laſtly, a Phyſitian, who makes too much haſte after a Patients Summons,
+<pb n="3" facs="tcp:41405:6"/> gives thereby the Patient occaſion to think that the Phyſitian has but few to look after, but ſmall Practice, ſo will have but mean thoughts of him, and hinder the operation of the Phyſick, where<g ref="char:EOLhyphen"/>as confidence in the Phyſitian does half the Cure, and (which is worſt of all) a ſmall Fee will be thought ſufficient for him: And I ſee no reaſon, why I ſhould not put a value on my Medicine, as well as you on your <hi>Maſs:</hi> But, Sir, I pray why are you ſo <hi>penu<g ref="char:EOLhyphen"/>rious</hi> of your Obedience to the Kings Commands, that you will go but juſt ten miles, though to your Detriment.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Why Sir, I'le tell you, the King ſhall ſee, that I will obey him <hi>exactly,</hi> though to my own prejudice, and my opinion is, that whoſoever of the <hi>Roman Catholick</hi> Religion, that live under the Kings protection, ſhould prefer the peace of the <hi>State</hi> before his own Advantages, and ſo I have learnt from wiſe men of this Na<g ref="char:EOLhyphen"/>tion.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Well Sir, omitting that this <hi>Minute</hi> Teſtimony of your O<g ref="char:EOLhyphen"/>bedience conduces nothing to the peace of the <hi>State,</hi> in as much as the going above ten Miles is no breach of the Kings Command, tell me, I pray, why you did not mention the peace of the <hi>Church,</hi> as well as of the <hi>State</hi> which you prefer to your own Advan<g ref="char:EOLhyphen"/>tages?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I muſt declare to you, I am a <hi>Catholick</hi> of the <hi>Church</hi> of <hi>Rome,</hi> and not of the <hi>Court</hi> of <hi>Rome,</hi> mind that, for this diſtincti<g ref="char:EOLhyphen"/>on has much in it, and I ow as much Allegiance to the King as a<g ref="char:EOLhyphen"/>ny Proteſtant of you all, and am ready to take up Arms to de<g ref="char:EOLhyphen"/>fend his Royal perſon, as many <hi>Catholicks</hi> did in the late Wars.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>I am ſatisfied, that many Catholicks were in the late Kings Army, and did Service there; but I always was ſatisfied alſo, that it was for their own ſakes principally, and for the Kings ſake on<g ref="char:EOLhyphen"/>ly; inaſmuch as they hoped for more Indulgence from a merciful Prince, then from a Herd of men, who could not be content to ſhave their Fathers beards, but muſt cut their throats: Yet Sir, I am ſatisfied. Its true, that you (as you ſay) <hi>Owe</hi> great Allegiance to the King, but I never could be ſatisfied, that ye <hi>paid</hi> ſo much, nor no more then utmoſt neceſſity compell'd from you, and I am now in greater diſſatisfaction, by the ſtory of the ten <hi>Miles,</hi> and no more.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>You may ſtill Sir, reſt under the ſame diſſatisfaction, and muſt ſo do, until you underſtand throughly the <hi>Diſtinction</hi> I before mentioned.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:41405:7"/>
+               <speaker>Phy.</speaker>
+               <p>As for your <hi>diſtinction</hi> of the <hi>Church</hi> of <hi>Rome</hi> and <hi>Court</hi> of <hi>Rome Papiſt,</hi> what ever was intended by the Inventer of the Knack, I take it to be a <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> Notion ſet up to ſtifle due Reflecti<g ref="char:EOLhyphen"/>ons on <hi>old</hi> Errors, for moſt certainly an <hi>Engliſh</hi> Papiſt, as Papiſt, abſtracted from doctrinal opinions, is a <hi>Traytor</hi> to the King of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Hold Sir, you intend not to quarrel me on the road ſure, and begin with ſuch rude Language.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Pray, why may not I call an <hi>Engliſh</hi> Papiſt <hi>Traytor,</hi> as well as you call an <hi>Engliſh</hi> Proteſtant <hi>Heretick</hi> the crimes are both <hi>Capital.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>If you underſtood any Diſtinction you would anſwer your ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>You crie <hi>Diſtinction, Diſtinction, Court of Rome, Church of Rome;</hi> but what is all that to the Church of <hi>England:</hi> I ſuppoſe the Author of that ſo much magnified Diſtinction might mean, tha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by n<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> being of the Court of <hi>Rome</hi> he may hold, That the <hi>Pope</hi> ha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not right to any temporal Juriſdiction in our Kings do<g ref="char:EOLhyphen"/>minions, but that our King is abſolute Monarch there, that's ſomething indeed and diverſifies him from a <hi>de fide man</hi> and <hi>Jeſuit,</hi> who hold the contrary: But yet he by being of the Church of <hi>Rome,</hi> muſt hold that the <hi>Pope</hi> has right to ſome ſpiritual juriſdicti<g ref="char:EOLhyphen"/>on within our Kings Dominions, which to affirm is to take away part of his Imperial Crown, and as 'tis againſt all truth, ſo by the Laws of this Realm is <hi>Treaſon;</hi> beſides while he holds the Pope Head of the Church, and ſo infallible, he obeys <hi>him</hi> well, who believes not what he ſays: For while the <hi>Church</hi> of <hi>Rome</hi> Papiſt ſayes our King is lawful King of <hi>England, Scotland</hi> and <hi>Ireland,</hi> he gives the Lye to his <hi>Infallible Holineſs,</hi> who has continued the old Interdiction of theſe Kingdoms, the Excommunication of our Kings, and has declared our King to have no right to his King<g ref="char:EOLhyphen"/>doms: And therefore <hi>in anno</hi> 1662. as well from Cardinal <hi>Bar<g ref="char:EOLhyphen"/>berin,</hi> as from the Popes <hi>Nuncio</hi> at <hi>Bruſſel,</hi> a ſevere Reprimand was ſent to the <hi>Iriſh</hi> Nobility, who had ſubſcribed a Remonſtrance, teſtifying their Allegiance to our preſent King, the Pope decla<g ref="char:EOLhyphen"/>ring it as an Injury to the Faith, and a denying of his Supre<g ref="char:EOLhyphen"/>macy: And <hi>in anno</hi> 1648. when the Papiſts to prevent baniſhment declared, That the Pope cannot abſolve them from their Obedi<g ref="char:EOLhyphen"/>ence, That he cannot depoſe any Heretical (as 'tis call'd) Magi<g ref="char:EOLhyphen"/>ſtrates, that he cannot diſpenſe with Oaths made with (ſuch) He<g ref="char:EOLhyphen"/>reticks: This was at <hi>Rome</hi> condemned as Heretical, the Parties
+<pb n="5" facs="tcp:41405:7"/> ſummoned to appear at <hi>Rome,</hi> and Cenſures and Priſons prepared for them; and in the ſame Caſe is your <hi>Man of Diſtinction</hi> with the <hi>Iriſh</hi> Papiſts, for ſubſcribing their formulary to that purpoſe: ſo that I ſee nothing from your <hi>diſtinction</hi> to ariſe, but a Monſter of Aequivocal generation, an Hermophrodite in Religion, part <hi>Ro<g ref="char:EOLhyphen"/>miſh,</hi> part <hi>Engliſh</hi> Catholick, whoſe ſeminal Vertues are to exert themſelves, as either powers prevail.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I verily believe, that the Catholicks of the Church of <hi>Rome</hi> are good Chriſtians, and true <hi>Roman Catholicks,</hi> though they are not of the <hi>Court of Rome,</hi> and they indeavour to <hi>reform</hi> that Church, and <hi>diſtinguiſh</hi> it from that <hi>Court.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>You ſay well <hi>diſtinguiſh,</hi> for it may be <hi>diſtinguiſhed</hi> in <hi>Noti<g ref="char:EOLhyphen"/>on,</hi> but can never be ſeparated in <hi>Deed;</hi> the <hi>Court</hi> and the <hi>Church</hi> of <hi>Rome</hi> being ſo interwoven, and although ſome few Straglers thus <hi>diſtinguiſh,</hi> yet in reality all our Conteſts concern the <hi>Court</hi> of <hi>Rome,</hi> in that all the intereſt of that <hi>Church</hi> is dependent on that <hi>Court,</hi> and they are incorporated together, ſo that if we ſhould ever joyn in Communion with that <hi>Church,</hi> we muſt in a little time ſubmit to the Uſurpation of that <hi>Court.</hi> Juriſdiction of <hi>Church</hi> and <hi>State,</hi> being in the ſame hands cannot be ſevered; unleſs ſome Sir <hi>Salomon</hi> among you can divide <hi>Pope, Cardinal, Pre<g ref="char:EOLhyphen"/>late,</hi> as great <hi>Salomon</hi> would have done the Child, which the two Mothers claimed? And as to your irregular and feeble Indeavors to <hi>reform</hi> that <hi>Church:</hi> Pray, by what Authority do your <hi>true Eng<g ref="char:EOLhyphen"/>liſh-Roman Catholicks</hi> endeavour to <hi>reform</hi> the <hi>Roman Catholick Church?</hi> For your Confeſſors tell you at the firſt Principle, that ye muſt believe as the <hi>Church</hi> believes; yet they themſelves be<g ref="char:EOLhyphen"/>lieve not ſo, but would reform that <hi>Church</hi> in its Articles of Faith.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Sir, they know well enough what they have to do, and we believe them, who have good Authority to inſtruct us in our belief.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>You have ſaid all that is permitted to ſilly miſled <hi>Ignaro's</hi> to ſay: But have a care and inquire after ſuch <hi>Reformers,</hi> who in ſingle private Capacities unauthoritatively undertake <hi>Reformation</hi> of Churches: At one time undertaking the Reformation of the <hi>Romiſh</hi> and <hi>Britiſh Churches:</hi> Our Church was reformed by due Authority according to the moſt antient Laws of this Realm; It having all the Rights of a Patriarchal <hi>See:</hi> But can a few <hi>Renega<g ref="char:EOLhyphen"/>do-dandi-prat</hi> Papiſts think to unhinge a <hi>Church</hi> or <hi>State</hi> under a pretence of <hi>Reformation:</hi> Theſe <hi>Reformers</hi> of yours, I fear promp<g ref="char:EOLhyphen"/>ted
+<pb n="6" facs="tcp:41405:8"/> our late Pretenders to Reformation, who firſt would reform the Court, then the eſtabliſhed Church, by Presbytery, then Pres<g ref="char:EOLhyphen"/>bytery by Independent, then Independency by Subdiviſions of Atomical Sects, till with Quaker and Millenaries <hi>Government</hi> was <hi>reformed</hi> quite out of doors; ſuch <hi>Reformers</hi> (as is ſaid) are like the Hobling Eraſtian, and run like Badgers with variating and une<g ref="char:EOLhyphen"/>qual Motions, and if they can keep where the ridge of ſecular Power goes higheſt, their <hi>Reformation</hi> turns into <hi>Rebellion,</hi> and Papiſt Reformers are as various and divers from their <hi>Church</hi> of <hi>Rome,</hi> aye, and from themſelves.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>You miſtake us much, for the <hi>Reformers,</hi> I mean, go not about to reform the whole Church, or to unhing it; but to reform in their private Practiſes and Judgments and teach us ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>They are good Members of that Church in the mean time, that are wiſer then their whole Church, not only to differ from their Church in their private Practiſes and Judgments, but to teach all others to do ſo too: Right <hi>Roman Catholicks,</hi> I'le warrant them.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>What, pray, do you think of Father <hi>Paul,</hi> who wrote the Council of <hi>Trent</hi> ſo diſadvantagiouſly to the <hi>Romiſh</hi> In<g ref="char:EOLhyphen"/>tereſt, and yet he died a <hi>ſteady Catholick</hi> of the <hi>Church</hi> of <hi>Rome.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>I'le tell you what I think of him, I think firſt, That he was no <hi>Engliſh</hi> man, and ſo nothing to our purpoſe, for I have nothing to ſay againſt Forreigners, let them uſe what Religion their Su<g ref="char:EOLhyphen"/>periours there injoyn them: But againſt <hi>Engliſh</hi> men, who, in op<g ref="char:EOLhyphen"/>poſition to the <hi>Religion of State,</hi> diſtinct from that of Faith, which is ordered by the proper Legiſlative Power, ſuch as your Church of <hi>Rome</hi> Papiſt is, for ought I can yet ſee: If your Father <hi>Paul</hi> was ſuch, I think him either a fool or a Knave, for if St. <hi>Peters</hi> Suc<g ref="char:EOLhyphen"/>ceſſor did behave himſelf well in that Council, your <hi>Paul</hi> was a Knave to traduce him, if contrary, he was a fool to leave a well ordered Church to follow the Dictates of ſuch a faulty Guide; yet were he a <hi>Subject</hi> of <hi>Rome,</hi> he was much too blame ſo openly to reproach his Prince, and yet was religious to dye a <hi>ſteady Cath<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>lick</hi> of that <hi>Church,</hi> while he was obliged to hear the <hi>Phariſee</hi> ſit<g ref="char:EOLhyphen"/>ting in St. <hi>Peters</hi> Chair.</p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:41405:8"/>
+               <speaker>Pap.</speaker>
+               <p>Well, <hi>Sir,</hi> ſay what you will, I ſay, <hi>I am a true Ro<g ref="char:EOLhyphen"/>man Catholick as to the other World, and a true Engliſh man as to this.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>
+                  <hi>Sir,</hi> you offered a Diſtinction lately with a <hi>witneſs</hi> (viz.) Father <hi>Paul,</hi> and now comes a Diſtinction with <hi>Paulo majore,</hi> and as to this I ſay; it's a Diſtinction well becoming a <hi>Romiſh-Church-Ca<g ref="char:EOLhyphen"/>tholick</hi> but not a <hi>true Engliſh man:</hi> for it looks two waies, for if Chequer Papiſt, party per pale, half true Papiſt, half true <hi>Engliſh</hi> will not do, then it is to be interpreted, <hi>True Engliſh man</hi> for life, and after <hi>true Roman Catholick,</hi> and ſo it has ſomething of Policy, but more of <hi>Romiſh</hi> Guile: In as much as it ſerves to ſecure Pro<g ref="char:EOLhyphen"/>tection and Preſervation, here during life, and after in the other world; True <hi>Roman Catholick</hi> goes for it to St. <hi>Peter,</hi> God a mer<g ref="char:EOLhyphen"/>cy good <hi>Diſtinguiſher;</hi> he dares as well be hang'd as tell the Pope this, how he cheats the Pope all his life, and cheats the King at his death; this Diſtinction dares not appear at <hi>Rome,</hi> no more then peaceable Mr. <hi>Walſh,</hi> Mr. <hi>White,</hi> or Mr. <hi>Serjeant,</hi> who non-con<g ref="char:EOLhyphen"/>form from the <hi>Church</hi> of <hi>Rome,</hi> more then our Independent from the <hi>Church</hi> of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>But <hi>Sir,</hi> if the Diſtinguiſher (as you call him) explains himſelf, and ſayes he owes Allegiance to the King actively, as to Matters of <hi>State,</hi> and paſſively as to Matters of <hi>Church,</hi> and ſo differs from your Church in <hi>pure Judgment</hi> only, and no more then Presbyterian or Independents there, who are good Sub<g ref="char:EOLhyphen"/>jects, nevertheleſs owe Allegiance, and claim protection, <hi>&amp;c.</hi> what ſay you then, <hi>&amp;c?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Firſt I ſay, that <hi>Church and State</hi> were all one before Chri<g ref="char:EOLhyphen"/>ſtian Emperours divided them, and cauſes were all derived from the ſame Fountain, the <hi>King,</hi> but as ſome were put into the hands of Eccleſiaſticks, and were called Eccleſiaſtical or Spiri<g ref="char:EOLhyphen"/>tual, ſo others delegated to Civil Magiſtrates were called Civil, thence aroſe the two Juriſdictions, which are naturally one, as in our King, and by Delegation only made two.—But I further ſay, if you be in earneſt, it is the firſt time I ever heard Papiſts to fight with Presbyterian weapons, and I mean by <hi>earneſt, real,</hi> for ſad Experience has ſhew'd, that it is not the firſt time by thouſands, that the <hi>Militants</hi> of the Romiſh Church have uſed the unhallowed Artillery of the ſpurious <hi>Engliſh</hi> Na<g ref="char:EOLhyphen"/>tives to fight withal againſt us: Yet not in <hi>earneſt</hi> or <hi>real</hi> as ſuch, but in Maſquerade, and if your Diſtinguiſher be ſo half witted
+<pb n="8" facs="tcp:41405:9"/> to tender this peace-meal Obedience: I ſay further, It's the pro<g ref="char:EOLhyphen"/>per Reſult of <hi>Romiſh</hi> Ignorance, for ſuch Notional Obedience is indeed none: True Obedience ought to be intire, and is due to the lawful Magiſtrates Commands by the Law of Nature antece<g ref="char:EOLhyphen"/>dent to any Command by the Magiſtrate, <hi>for the Lords ſake,</hi> who injoyns to <hi>obey,</hi> not barely for the Commands-ſake, which injoyns to <hi>do:</hi> And there is more Religion in ſuch Obedience then in all your Worſhip: But, <hi>Sir,</hi> I would willingly be reſolv'd, whether the <hi>Romiſh Church<g ref="char:punc">▪</g> Catholick</hi> diſſent from us in Church matters in pure <hi>Judgment,</hi> or by reaſon of ſome <hi>Command</hi> from the <hi>Pope?</hi> next, whether there be not a great difference between Proteſtant and Popiſh Diſſenters: Inaſmuch as the former, whatever he thinks concerning the power of his Prince in Church matters, and per<g ref="char:EOLhyphen"/>haps would have him mend his Diſcipline according to miſtaken Rule of Scripture, yet he takes it not from our Prince, and lodges it in a forraign Prince, or Prelate, which laſt makes it Treaſon: Let this be anſwered, and I'le promiſe you not to take ſuch an un<g ref="char:EOLhyphen"/>couth Travail, as at preſent gives occaſion of our Diſcourſe.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Pray, <hi>Sir,</hi> is there any harm, if I prefer the Pope to the <hi>Arch-Biſhop</hi> of <hi>Canterbury?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>None at all, as the former is a Temporal Prince, and the latter but a Subject, nay more, the Arch-Biſhop of <hi>Rome</hi> ſhall have my Vote to take Precedency of the Arch-Biſhop of <hi>Canterbury,</hi> at a general Council, when it happens, but not in <hi>England</hi> un<g ref="char:EOLhyphen"/>leſs by Curteſy: And if you prefer the Pope before the Arch-Biſhop of <hi>Canterbury</hi> as to any power of Spiritual Juriſdiction in our Kings Dominions, you are unmannerly to the Arch-Biſhop, who is Apoſtolick and Patriarch here, as Pope <hi>
+                     <g ref="char:V">Ʋ</g>rban</hi> the ſecond al<g ref="char:EOLhyphen"/>lowed, and you are a <hi>Traytor</hi> to the King, by, and under whoſe un<g ref="char:EOLhyphen"/>doubted, inherent Right and Authority the Arch-biſhop is Pri<g ref="char:EOLhyphen"/>mate in this Patriarchate.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>But do you think in your Conſcience, that the Pope has no Right to Spiritual Juriſdiction in <hi>England?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Aye, I do in my Conſcience verily believe that the Pope has no Right to any Juriſdiction whatſoever in our Kings Do<g ref="char:EOLhyphen"/>minions.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Pray, what Grounds have you for it?</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>The Grounds I have for it is from the <hi>certain</hi> Teſtimony of Records, continued in Succeſſion for many hundred years, which are to be ſeen in the Tower, and ſome of them are tran<g ref="char:EOLhyphen"/>ſcribed
+<pb n="9" facs="tcp:41405:9"/> by the Lord <hi>Coke,</hi> and cited in the Report of a Law Caſe, called <hi>Cawdries</hi> Caſe, and in Mr. <hi>Prins</hi> Collections, whereby it plainly appears that in all ages, wherein the Pope laid claim to Eccleſiaſtical Juriſdiction in <hi>England,</hi> and offered to put the ſame in Execution, it was alwaies oppoſed by Parliaments and Coun<g ref="char:EOLhyphen"/>cils, as derogatory to the juſt Rights of this Crown.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>But how are you <hi>certain</hi> of the truth of theſe Teſtimo<g ref="char:EOLhyphen"/>nies?</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Sir, as to the matter of <hi>Certainty,</hi> I ſhall not uſe the noti<g ref="char:EOLhyphen"/>ons ſo much contended about, <hi>viz. Moral Certainty or ſufficient Cer<g ref="char:EOLhyphen"/>tainty, ſo much as the Nature of the thing is capable of,</hi> there being three <hi>abſolute Certainties,</hi> by which we come to the knowledg of things. 1. A ſenſible Certainty. 2. A Mathematical Certainty. 3. An Hi<g ref="char:EOLhyphen"/>ſtorical Certainty, and all theſe are in their kinds reſpectively ab<g ref="char:EOLhyphen"/>ſolute. The Certainty of Sence makes me abſolutely Certain of what I ſee, hear, <hi>&amp;c.</hi> The Certainty of Demonſtration makes me abſolutely Certain, that one and one makes two, and three and three makes ſix: The Certainty of Hiſtory continued uninter<g ref="char:EOLhyphen"/>rupted and undoubted, and by unanimous Conſent of ſucceſſion of Ages, and Hiſtorians, makes me abſolutely certain, that there were ſuch Kings of <hi>England,</hi> as <hi>Kenulphus,</hi> King <hi>Edwin, Edw.</hi> the Confeſſor, <hi>William</hi> the firſt, <hi>Hen. 1. Hen. 3. Edw. 2. Edw. 3. Rich. 2. Hen. 4. Hen. 5. Hen. 6. Edw. 4. Rich. 3. H. 7. H.</hi> 8. and alſo that in their ſeveral and reſpective Raigns, the Popes claim to Eccleſiaſtical Juriſdiction here in <hi>England</hi> was declared null, even by thoſe of the <hi>Romiſh</hi> Communion, and that the King was acknowledged to be the Vicar of the higheſt King, compleat Monarch, Head of the whole body of the Realm, to govern and rule the Kingdom and People of the Land, and above all things the <hi>Holy Church,</hi> and de<g ref="char:EOLhyphen"/>fend the ſame, to give Authority to his Clergy, to exerciſe Eccleſi<g ref="char:EOLhyphen"/>aſtical Juriſdiction in this Realm, according to Canons and Laws made for that purpoſe, and that all Dignitaries of the Church de<g ref="char:EOLhyphen"/>rive their preferments from the King and no other, excluſive of the Popes Authority in all Caſes whatſoever.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>How can you call that an <hi>abſolute Certainty,</hi> when there is at the ſame time a Poſſibility that the ſame may be falſe, for there is a Poſſibility, that all Hiſtorians may be miſtaken, and all Hiſto<g ref="char:EOLhyphen"/>ries forged?</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>So is there as much Poſſibility, that the Air may become an unproportionate <hi>Medium,</hi> and diſturb my Certainty of ſight,
+<pb n="10" facs="tcp:41405:10"/> and ſo the Senſe deluded; ſo may I have a <hi>Delirium,</hi> and my In<g ref="char:EOLhyphen"/>tellectuals at ſome time diſturbed in their Mathematical Activity, and ſo confound all abſolute Certainties: But until there appear an abſolute Certainty of ſuch Interruptions of ſuch means of ab<g ref="char:EOLhyphen"/>ſolute Certainties, the three abſolute Certainties remain ſuch, for it is not enough to <hi>ſuppoſe</hi> a Poſſibility to the contrary, that makes them leſs certain, but there muſt appear as high a Certainty to the contrary: And while my Underſtanding is fully ſatisfied of ſuch Cer<g ref="char:EOLhyphen"/>tainties, it is impoſſible to believe a Poſſibility to the contrary: and in caſe of Hiſtorians reporting a matter of Fact diverſly, the greater and more valuable Teſtimony is, to my underſtanding, abſolute, the other not; as if, Mr. <hi>Creſſey</hi> affirms in his Church-Hiſtory, that this Kingdom of <hi>England</hi> was for One thouſand years abſolutely ſubject to the Spiritual Juriſdiction of the Pope, and all the Teſtimonies before mentioned (which are Records kept and preſerved inviolate and ſacred in the Archives of the King<g ref="char:EOLhyphen"/>dom, with the care equal with the Evidences for the Crown and Concerns of the King and People) ſay the contrary, I take it this laſt Teſtimony is of abſolute Certainty, the other not.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>But notwithſtanding all theſe Records, Popery was in all thoſe Kings Raigns uſed in <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>It was ſo, and <hi>Hen.</hi> 8. dyed one of your <hi>ſteady Roman-Church Catholicks;</hi> but whatſoever powers the Pope had in any, or all thoſe Kings Raigns in <hi>England,</hi> was meerly by the Conceſſion of ſuch Kings, and not otherwiſe, and at their will and pleaſure only, and which they might at any time reſume at the like plea<g ref="char:EOLhyphen"/>ſure, which other Kings have done ſince: And I muſt tell you, that although ſuch Conceſſions have been, yet they ought not to have been, for the King cannot grant away any Inherent Flower of the Crown, ſuch as Juriſdiction is, no more then he can grant away the Crown it ſelf: And whereas the timerous King <hi>John,</hi> the very <hi>black Patch</hi> of the <hi>Engliſh</hi> Race, laid down his Crown at the Infi<g ref="char:EOLhyphen"/>del Embaſſadors feet, and afterwards allowed it Tributary to your <hi>Italian</hi> Uſurper: It was more then he by the Law of this Realm could do, and his Acts therein were wholly void, but the King may appoint or alter a Diſcipline and Worſhip, not contrary to Gods Holy Will and Appointment.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Well, but what if the King ſhould appoint a Liturgie and Form of Worſhip the ſame with that of the Catholick Coun<g ref="char:EOLhyphen"/>tries?</p>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:41405:10"/>
+               <speaker>Phy.</speaker>
+               <p>If he ſhould, what then? would that ſatisfie the <hi>true Ca<g ref="char:EOLhyphen"/>tholicks of the Church of Rome,</hi> and make them <hi>true Engliſh men?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I believe it might, for while you have ſo good Authority againſt the Popes Juriſdiction here, I cannot ſee at preſent what more they can have.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>I vow, I ſee ſuch kind of arguings as theſe will ſoon bring theſe Controverſies into a narrow Room, and (being preſſed for<g ref="char:EOLhyphen"/>ward and home) to an End.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Hold there, for though I cannot at preſent anſwer your ſtudied Arguments, yet I may upon Deliberation; however <hi>there are them,</hi> who are able to do it, whom I ſhall conſult, and then talk with you further.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>
+                  <hi>There are them?</hi> Very well, who are <hi>them</hi> with a Miſchief? What blind leads the blind? Credulity and Ignorance are the Pillars of your Church: But come <hi>Sir,</hi> let me give you ſome Ad<g ref="char:EOLhyphen"/>vice; The Service of God ought to be a <hi>reaſonable</hi> Service<g ref="char:punc">▪</g> that is, <hi>Logical,</hi> according to the word in the Original <hi>reaſoning,</hi> or your reaſon ought to be primarily concerned therein: You are a per<g ref="char:EOLhyphen"/>ſon endued with rational Faculties, and ſome ſtock of Improve<g ref="char:EOLhyphen"/>ments? You are thereby diſtinguiſhed from <hi>Brut<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> you are not to act, in things of Religion, out of Cuſtom, Precept or Exam<g ref="char:EOLhyphen"/>ple <hi>meerly,</hi> but to be a wiſe <hi>Berean,</hi> more noble than thoſe of <hi>Theſſa<g ref="char:EOLhyphen"/>lonica,</hi> to ſearch the Scriptures, and try whether what is taught you be according thereto; do not pin your Faith on other mens ſleevs (as the ſaying is) admire not perſons ignorantly, nor things for perſons ſakes: It was not a juſtifiable ſaying of him, who had rather be in an Error with <hi>Plato,</hi> then in the truth with any other. There was one <hi>Farrel</hi> an active Presbyterian in <hi>Geneva,</hi> after whom the People flocked: In ſo much as one became ſo bold as to ſay, he gave greater honour to <hi>Farrel</hi> then to <hi>Paul,</hi> and another ſaid of <hi>Calvin,</hi> that were <hi>Paul</hi> and <hi>Calvin</hi> to preach together, he would leave <hi>Paul</hi> to hear <hi>Calvin:</hi> So that many men profeſs this or that Sect of Religion, not ſo much for Religion ſake, as for the ſake of the Sect Leaders: Imitate St. <hi>Auſtin,</hi> who having a long time followed St. <hi>Cyprian</hi> (an Orthodox Father of the Church) in the interpretation of a place of Scripture, afterwards met with <hi>Ti<g ref="char:EOLhyphen"/>conius</hi> (an Heretick) interpreting that place, which he cloſed with, conceiving it beſt.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Truly, <hi>Sir,</hi> I deny not but your Advice is wholeſom, and perhaps ſeaſonable, I ſhall think of it: But, <hi>Sir,</hi> what if the Ro<g ref="char:EOLhyphen"/>man
+<pb n="12" facs="tcp:41405:11"/> Catholicks ſhould declare, that they believed and owned the Kings <hi>Eccleſiaſtical</hi> Juriſdiction as well as <hi>Temporal</hi> in all his Do<g ref="char:EOLhyphen"/>minions, and diſowned the Popes right to any Juriſdiction what<g ref="char:EOLhyphen"/>ſoever here, would not that be Security ſufficient for the publick Peace, and prevent ſevere Laws againſt us?</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>I think in ſuch caſe our King might well ſay of ſuch Pa<g ref="char:EOLhyphen"/>piſts, as the Duke of <hi>Saxony,</hi> ſaid of the <hi>Lutherans, viz.</hi> what they believe now I know, but what they will believe next year I know not: And you may deny the <hi>Popes</hi> Juriſdiction <hi>here,</hi> as the Papiſts <hi>in France,</hi> did the Popes power of Princes, yet hold it ſo at <hi>Rome:</hi> And you may own <hi>Allegiance,</hi> and <hi>Supremacy,</hi> to be in the King, as <hi>Vauinus</hi> wrote for Providence, yet denyed a deity. But I do think that an Oath to that purpoſe well <hi>Pen'd</hi> and well <hi>taken,</hi> would conduce ſomewhat to the Peace of the Nation, provided, ye by the ſame Oath declared, that the Pope could not diſpenſe therewith. And if the Pope himſelf would alſo declare ſo, That would certainly conduce to make your <hi>true Roman Catholick</hi> a <hi>true Engliſh man;</hi> and until both be ſo done, I cannot promiſe ſecuri<g ref="char:EOLhyphen"/>ty to the peace of the Nation: But I pray, why are you ſo in love with the <hi>Romiſh</hi> Liturgy and Worſhip, that you vvould have it eſtabliſhed here?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>For theſe Reaſons, 1. For that it is for the Honour of the Chriſtian Religion, that the ſame way of Worſhip might be ob<g ref="char:EOLhyphen"/>ſerved in all Chriſtian Churches. 2. For that the vvay of the <hi>Ro<g ref="char:EOLhyphen"/>miſh</hi> Worſhip, has been uſed in all Chriſtian Ages, and in all Chri<g ref="char:EOLhyphen"/>ſtian Kingdoms and Places, till of late, and is ſtill uſed in ſome Kingdoms, where the Popes Juriſdiction is not allowed.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>
+                  <hi>Sir,</hi> as to your firſt reaſon, I agree it would be exceed<g ref="char:EOLhyphen"/>ingly for the Honour of the Chriſtian Religion, if ſuch Harmo<g ref="char:EOLhyphen"/>ny and Agreement could be uſed in religious Worſhip, as that <hi>one</hi> God might be worſhipped in <hi>one</hi> way; but as that never was, ſo, I fear, never will be, till all things be no more: As to your ſecond reaſon, I deny that the <hi>Romiſh</hi> Worſhip, as now is uſed, was in any Chriſtian Age or Kingdom uſed for above five hundred years af<g ref="char:EOLhyphen"/>ter Chriſtianity came into the world, nor do your true <hi>Engliſh Ro<g ref="char:EOLhyphen"/>man Catholicks,</hi> as you call them, now agree with any other Chri<g ref="char:EOLhyphen"/>ſtian Kingdom, Church or Place vvhatſoever, if they belie not themſelves.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Well, it has been ſo long uſed, and with ſo general a Con<g ref="char:EOLhyphen"/>ſent and Approbation, as may well Intitle it to a preference, to
+<pb n="13" facs="tcp:41405:11"/> this new upſtart way of Worſhip, which this Nation has had not above 100<g ref="char:punc">▪</g> Years.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>As to the Argument of Antiquity, and long Uſage: It may be good, in caſes of Politick, and Civil rights and Intereſts, and become determinative, provided it be not againſt poſitive Laws, natural Equity or reaſon; And in theſe Exterior parts of Religi<g ref="char:EOLhyphen"/>on, it can obtain no more: For a way of worſhip repugnant to the poſitive Law declared in Scripture, or repugnant to the poſitive Law of the ſupreme Magiſtrate, ought not to be exer<g ref="char:EOLhyphen"/>ciſed by any Subject living under the protection of that Supream Magiſtrate, without ſin and breach of Allegiance: And Sir, I muſt tell you further, that this Notion of Antiquity (though of great veneration in it ſelf, yet) has been often uſed to the diſad<g ref="char:EOLhyphen"/>vantage of truth, and made a Stale to dangerous miſtakes, and corrupt purpoſes. You know who was reproved for <hi>not walking af<g ref="char:EOLhyphen"/>ter the Traditions of the Elders.</hi> 7. Mat. 5. and <hi>who were ſo zealous for the Traditions of the Fathers.</hi> 1. Gal. 14. Againſt whoſe Arguments of Antiquity, it was only oppoſed <hi>ſearch the Scriptures<g ref="char:punc">▪</g> 5. John</hi> 39. and you may ſee 17 <hi>Acts</hi> 19. who ſcoff'd at the new Doctrine, as you at this <hi>new upſtart way of Worſhip,</hi> though indeed elder to yours: So the Antiquity (barely as ſuch) is no Argument <hi>for</hi> one, or <hi>a<g ref="char:EOLhyphen"/>gainſt</hi> another, or that the more ancient (as ſuch) is to be prefer<g ref="char:EOLhyphen"/>red before the late; but again, I ſay, ſearch and try, vvhich is the beſt, and adhere to that, for the Improvement of your own (not another mans) Talent muſt enrich you.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>This deſpiſing of things antient, and entertaining of things Novel in Religion, has not only made a lamentable breach in the Catholick Church, but this Nation more particularly and dole<g ref="char:EOLhyphen"/>fully has felt the direful Effects thereof, in your Diviſions and Subdiviſions in the matters of Religion, and the vvayes of re<g ref="char:EOLhyphen"/>ligious Worſhip; witneſs all your Sects and Diſſentions, that have lately over-run the Nation.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>As this Objection is of ſome ſtanding, ſo it's nere the bet<g ref="char:EOLhyphen"/>ter, nor ſtronger for it, for new Anſwers have fully confoun<g ref="char:EOLhyphen"/>ded it, as vvell to the reaſon of the thing, as to a returning it vvith abundant additions on the <hi>Romiſh Church,</hi> vvherein are many more Diviſions, Sects and Diſſention then in ours, as Doctor <hi>Stil<g ref="char:EOLhyphen"/>lingfleet</hi> has learnedly and faithfully made out in one Chapter of his Book againſt <hi>Idolatry, &amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Pray then tell me a reaſon, why may not I or another ſo
+<pb n="14" facs="tcp:41405:12"/> perſwaded, with good conſcience, uſe the <hi>Romiſh</hi> Way of Worſhip and Devotion, and not the <hi>Engliſh</hi> Way of Worſhip, if I al<g ref="char:EOLhyphen"/>low the Kings Supremacy, and diſallow the Popes?</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Laying aſide the reaſons urged againſt the irrationality, foppiſh, feigned Superſtition, Incredibility, and Idolatry, at large diſcourſed by Dr. <hi>Stillingfleet</hi> in his Book againſt their Idolatry and Fanaticiſm, and it's Vindication, a Book called <hi>Reflections on the Romiſh Devotions;</hi> another, <hi>the Triumphs of</hi> Rome <hi>over deſpiſed Proteſtancy,</hi> two others, <hi>viz. the Funeral of the Maſs, and the depth and myſtery of the Maſs,</hi> vvhich I vviſh you to read and others; I'le tell you another reaſon, (<hi>viz.</hi>) becauſe the King has commanded the contrary.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Why, can the Kings Command bind me in my vvay of Worſhip? is it not ſufficient if I diſown the Pope?</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>You diſown the <hi>Pope</hi> only by half, yet ſuch diſowning may be well done, and if we could be aſſured it was well done might give ſome Security to the King againſt Forreign, Civil Pretenders, but ſtill you give him no Security for perfect Obedience, as a <hi>true Engliſh man,</hi> and againſt breach of the peace of the Church, if you conform not to his lawful Commands in his waies of Worſhip.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Pray, how come the King to have power to impoſe a way of Worſhip according to his own Will?</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>The King has as much Power to impoſe a way of Worſhip here, as the Pope has in his Dominions, but neither has Power to impoſe a way of Worſhip abſolutely, according to his own VVill.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>What? has the King Power to impoſe a Way of Worſhip, and yet not according to his own Will? pray according to whoſe Will does he ſo impoſe, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>He impoſes it according to the Will of God?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>How can that be, for the Proteſtants ſay that no Way of Worſhip is expreſly appointed in Scripture, and they allow no Revelations to holy men to be credited.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>This is the rule they go by, whatſoever in Religion is not of the eſſence of <hi>Chriſtian Religion</hi> intituled by our Saviour him<g ref="char:EOLhyphen"/>ſelf, or declared or adviſed to be practiſed by the Apoſtles, is law<g ref="char:EOLhyphen"/>fully looked on as <hi>Religion of State,</hi> in that it may be altered or improved, or aboliſhed by the Soveraign power, for the better Advancement of thoſe ends which are eſſential; the ſame power may remove Errors, Inconveniences, Scandals and abuſes there<g ref="char:EOLhyphen"/>in;
+<pb n="15" facs="tcp:41405:12"/> and of that Nature is the way of Worſhip, and ſo within the Power of the King: The King has no Power over the kernel, but over the ſhell he has, and by his Soveraign power that is pre<g ref="char:EOLhyphen"/>ſerved inviolate.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Well, but if he has ſuch power, why could he not keep the Old ſhell, but make a New one?</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Our King has not made a New ſhell to keep the Old ker<g ref="char:EOLhyphen"/>nel in, but he has amended the Old ſhell, for the better preſerva<g ref="char:EOLhyphen"/>tion of the Old kernel.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I apprehend what you mean by kernel and ſhell, you may continue the Metaphor, and tell me wherein our King contributes to the preſervation of the Old kernel more then his Holy<g ref="char:EOLhyphen"/>neſs.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Why then, I'le tell you, this kernel and ſhell firſt grew in <hi>Paleſtine,</hi> which was a land as fruitful, as that mentioned, <hi>Deut.</hi> 8. and more for fruit-trees (eſpecially Figs there) never leave bear<g ref="char:EOLhyphen"/>ing the old Figs, continuing till the new come, which reſolvs 14 <hi>Mark</hi> 13. But for ſhell fruit (eſpecially ſuch as we talk of) Dr. <hi>Heylin</hi> ſays, little is there, but what comes from <hi>Damaſcus:</hi> And as to this ſhell fruit of ours, ſome Indignities being offered thereto by untoward Neighbours, <hi>viz<g ref="char:punc">▪</g>
+                  </hi> the <hi>Eſſens, Saducees, Scribes, Phariſees, Herodians and Galileans:</hi> It was thought <hi>fit</hi> to be tranſplanted. And one St. <hi>Joſeph</hi> an <hi>honourable Counſellor</hi> planted it in <hi>England;</hi> where it continued and did thrive exceedingly, the <hi>Kernel</hi> flouriſhing, keeping its native Vigour, Sap and Colour, the <hi>Shell</hi> fine, thin, well favoured, and as hard (one would think) as a <hi>Rock,</hi> and ſo it continued near five hundred years, afterwards by the Luxuri<g ref="char:EOLhyphen"/>ancy of the Soil, and the over officious, and too critical Appoint<g ref="char:EOLhyphen"/>ments and Trials of ſome Superviſors, and too lazy and ſuperfi<g ref="char:EOLhyphen"/>cial of others, on this well coloured, thin, and hard ſhell, a kind of falſe Rind grew and covered it quite over, till you could not ſee the true ſhell; this Rind was maintained, as engendred, by ſomething forreign, nothing from the Kernel: It happened that a great Wind aroſe once upon a time, about the time of <hi>Lent,</hi> I think it was a weſterly Wind, and as eaſterly Winds bring in Au<g ref="char:EOLhyphen"/>tumn <hi>Aſcarides,</hi> to deſtroy Orchards and Garden Fruits, ſo in Lent this weſterly Wind brought an infinite number of Vermin (of equivocal generation to be ſure) into our Land, they were of ſeveral ſhapes and colours, all of them but of two legs, divel<g ref="char:EOLhyphen"/>liſh beaks like birds of prey, ſome were red, ſome ruſſet, ſome
+<pb n="16" facs="tcp:41405:13"/> black, and ſome of all colours, and <hi>Sir,</hi> this ſort of verminous Breedlings (after that the groſs putrid Air, that was their Parent and Vehicle hither<g ref="char:punc">▪</g> became ſomewhat rarified, and ſo not ſo full of luſcious ſupport) got into this ſcurvy Rind, and there digg'd their Manſions, and for many years lived on the adventitious juice which ſupplyed the Rind, which ſtrange Animals (ſwarming to too great a number) could not be preſerved with fatneſs in the Rind, but lay gnawing on the ſhell, made holes therein, and (as I'me credibly informed) had almoſt endangered the kernel, whereup<g ref="char:EOLhyphen"/>on the Matter was inquired into, and found out by skilful Work<g ref="char:EOLhyphen"/>men, who quite pared off the Rind, and ſo deſtroyed the Neſts of thoſe Caterpillars, and have indeavoured to keep the ſhell, well favoured, thin and hard, as it was at firſt, yet (it's ſtrange) though one ſort of Vermin be ſcraped off, another kind of Vermin like Mites will fall on, if not warily looked after; but for the whole Matter, we keep it now pretty well, only now and then waſhing it over with a little <hi>water</hi> and <hi>Salt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Well <hi>Sir,</hi> if you mean by the <hi>Kernel,</hi> the Chriſtian Reli<g ref="char:EOLhyphen"/>gion, by the <hi>Shell,</hi> Diſcipline on Worſhip, and by the <hi>Rind</hi> ſome Super additions thereupon, in which, or upon which the <hi>Romiſh</hi> Prieſts and Regulars lived, and by the paring of the Rind, the <hi>Re<g ref="char:EOLhyphen"/>formation,</hi> and by the <hi>Mites,</hi> your own Sectaries, and by <hi>Water</hi> and <hi>Salt,</hi> paenal laws, as I think you do: What if all this be true, which I deny, yet how come your Kings to have any thing to do in <hi>Re<g ref="char:EOLhyphen"/>formation</hi> of the Church?</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Our Kings have power to reform the Church of <hi>England,</hi> &amp;c. by a Power inherent in them, as <hi>Emperors</hi> within their Do<g ref="char:EOLhyphen"/>minions.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>How, <hi>Emperors?</hi> ſure you'l not make that out. When were the Kings of <hi>England ſtiled Emperors?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Whether any of our Kings were actually <hi>ſtil'd</hi> Emperors is not the point: But they <hi>were</hi> ſo ever ſince they wore an <hi>Impe<g ref="char:EOLhyphen"/>rial</hi> Crown, and that is ever ſince there was firſt a King of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>But how does that make him Governour of the Church?</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>
+                  <hi>That</hi> makes him not Governour of the Church, but God made him ſuch, and <hi>That</hi> is Evidence, that God made him ſuch, the Crown of <hi>England</hi> never being <hi>rightfully</hi> dependent, as to any Ju<g ref="char:EOLhyphen"/>riſdiction, on any forreign Emperour, Prince, Potentate or Pa<g ref="char:EOLhyphen"/>triarch, and ſo is his Crown Imperial, and his power abſolute,
+<pb n="17" facs="tcp:41405:13"/> according to the moſt ancient Conſtitution and Laws of this Realm, in all matters Civil and Eccleſiaſtical. Our King is by our fundamental Laws a perſon ſacred, and mixed with the Prieſthood, and at his Coronation by a ſolemn Conſecration and Unction, he becomes a ſacred and Eccleſiaſtical Perſon, for as he hath put up<g ref="char:EOLhyphen"/>on him the regal Crown, as Embleme of his Kingſhip and Power in Temporals, ſo hath he a Sacerdotal Veſtment, commonly cal<g ref="char:EOLhyphen"/>led Dalmatick, as a Levitical Ephod, to ſignifie his Power in Spi<g ref="char:EOLhyphen"/>rituals; and accordingly our Kings have always (on occaſion) cal<g ref="char:EOLhyphen"/>led a National Synod (called here a Convocation) conſiſting of the Clergy-Lords and Commons, appoints a Primate to preſide there, and they conſult together, and prepare Canons for or<g ref="char:EOLhyphen"/>dering ſuch Church matters, as the King appoints, and no more, which the King afterward Enacts, and makes to be Laws by his Royal Aſſent; What can your Pope ſay more for him<g ref="char:EOLhyphen"/>ſelf?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>He can ſay much more for himſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>I believe he can ſay enough, but he cannot prove half he ſayes.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>He can prove that his way of Worſhip has been uſed lon<g ref="char:EOLhyphen"/>ger then yours.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>More ſhame, that it has been ſuffered ſo long, but let it be what it will in other Countries, ſtill I ſay it ought not to be ſo here, ſince the Laws of the Land command the contrary, the Pope having no Right to any Juriſdiction here, as before is ſaid. And I muſt tell you, and can make it good, That the King of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> hath been ſtyled <hi>Vicar</hi> of the higheſt God, long before the Pope became a <hi>Prince</hi> or <hi>Pope.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Theſe (Methinks) are odd things, and contrary to the Law of God.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Pray, <hi>Sir,</hi> let me ask you a few Queſtions, <hi>viz.</hi> firſt, whe<g ref="char:EOLhyphen"/>ther <hi>Peter<g ref="char:punc">▪</g>
+                  </hi> had any thing to do here in <hi>England,</hi> when <hi>Joſeph</hi> of <hi>Arimathea</hi> was here? Or when <hi>Paul</hi> was here? Which was before he was at <hi>Rome,</hi> and <hi>Joſeph</hi> came hither with his twelve holy Com<g ref="char:EOLhyphen"/>plices after <hi>Stephens</hi> death: The firſt Chriſtian Church was built by <hi>Joſeph</hi> at <hi>Glaſſenbury,</hi> here was three Arch-biſhops and twenty eight Biſhops before <hi>Auſtin</hi> the Monk came hither, who refuſed to keep <hi>Eaſter</hi> as it was kept at <hi>Rome,</hi> to baptize by their Ceremonies, or to joyn in preaching with the <hi>Anglo-Saxons,</hi> I ſay, pray in all this time, which was ſome Hundreds of years next after our Sa<g ref="char:EOLhyphen"/>viour,
+<pb n="18" facs="tcp:41405:14"/> what Juriſdiction did St. <hi>Peter</hi> or his <hi>Romiſh</hi> Succeſſors claim in <hi>England:</hi> Pray, where was <hi>Pope</hi> or <hi>Supremacy</hi> either, before they were given to <hi>Boniface</hi> the third, <hi>anno</hi> 606, by <hi>Phocas</hi> (that A<g ref="char:EOLhyphen"/>dulterous Aſſaſſine) who ſlew his Maſter <hi>Mauritius,</hi> the Emperor; before <hi>that, Pope</hi> was uſual to other Biſhops, then <hi>Volumus</hi> and <hi>Ju<g ref="char:EOLhyphen"/>bemus</hi> came in the room of <hi>I beſeech ye Brethren.</hi> Rom. 13. and (which is remarkable) <hi>Mahomet</hi> the Grand Impoſtor broke then out al<g ref="char:EOLhyphen"/>ſo, when the Pope became a Temporal Prince by the Gift to him of the Kingdom of the <hi>Lombards</hi> by <hi>Pippin,</hi> Son of <hi>Charles Martel.</hi> Another Queſtion is <hi>Sir,</hi> whether our King is not as good a Suc<g ref="char:EOLhyphen"/>ceſſor to St. <hi>Joſeph,</hi> as a <hi>Lay</hi> Pope is to St. <hi>Peter:</hi> Pope <hi>Conſtantine</hi> the fourth being oppoſed by the Council of <hi>Lateran,</hi> as being a <hi>Lay</hi> perſon juſtified himſelf, and ſhewed for Preſident <hi>Sergius</hi> Biſhop of <hi>Ravenna,</hi> and <hi>Stephen</hi> Biſhop of <hi>Naples;</hi> and when the Pope ſaid firſt Maſs in the City of <hi>Conſtance,</hi> King <hi>Sigiſmund</hi> in Deacons ha<g ref="char:EOLhyphen"/>bit read the Goſpel out of St. <hi>Luke 2. there went out a Decree from Caeſar Auguſtus,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Well <hi>Sir,</hi> let's not talk too much of theſe matters; for I may be drawn into a ſnare in ſeeming to leſſen the Kings Au<g ref="char:EOLhyphen"/>thority, from whom I expect protection, and deſire the Exerciſe of my Religion after my own <hi>Judgment.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Your <hi>own Judgment?</hi> I like the words well, and wiſh you guided by your <hi>own Judgment,</hi> rightly improved by due Inquiries into <hi>things,</hi> and not by the <hi>Judgment</hi> of others, without a <hi>rational</hi> ſatisfaction, why or wherefore, but only you muſt do, becauſe you are bid to do ſo, and until that, you may expect and deſire long enough before it be granted.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Why ſhould you be ſo ſevere againſt us, who <hi>promiſe</hi> all due Obedience to the King, and not to diſturb the peace of the Nation?</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>You may <hi>promiſe due</hi> Obedience, but then you tell not what that <hi>due</hi> Obedience is. Alſo men of your perſwaſion have alwaies <hi>promiſed</hi> fair, but no Age can teſtifie their ſuitable <hi>performances,</hi> if fit occaſion be offered to the contrary.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Why, then will you condemn all for ſome?</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>How ſhall we diſtinguiſh ye? Will ye Rendevouz on <hi>black Heath,</hi> and divide into parties?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I gave you a Diſtinction before of the Church of <hi>Rome</hi> and Court of <hi>Rome</hi> Papiſts, the latter only are proper to be called <hi>Papiſts,</hi> the former <hi>true Roman Catholicks.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="19" facs="tcp:41405:14"/>
+               <speaker>Phy.</speaker>
+               <p>Why? Then I am no Proteſtant, but a true <hi>Engliſh Catho<g ref="char:EOLhyphen"/>lick?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Yes, though you be not a <hi>Lutheran</hi> Proteſtant, nor a <hi>Calvinian</hi> Proteſtant, yet you proteſt againſt the Church of <hi>Rome.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>So though you be not a <hi>Jeſuit</hi> Papiſt, a <hi>de fide</hi> Papiſt, yet you are a Papiſt, owning the Popes Authority againſt the Church of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Well, then you acknowledge us not to be ſo dangerous, as ſome other Papiſts are?</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Truth, I cannot acknowledg ye ſo, for, for ought I know, or perhaps your ſelves, you may be as ill as the worſt: And whilſt you make a Party diſclaimer of the Popes Authority here, that may be but a pretence, and you may have the Popes Authority for ſo doing: It's not a new thing that Diſpenſations have been given by the Pope (and frequently they are) not only to <hi>Church</hi> with us at large, but to <hi>communicate</hi> with us alſo, and ſome have had In<g ref="char:EOLhyphen"/>dulgences to worſhip Idols in proper Countries. And this is your <hi>holy Stratagem,</hi> like that of <hi>Cromwell,</hi> who baniſhed ſome hence, to betray the King beyond Sea: And it is to be remembred, That <hi>Watſon</hi> (of whom your <hi>Peter Walſh</hi> ſpeaks ſo well, and called him<g ref="char:EOLhyphen"/>ſelf <hi>Puritan</hi> Papiſt, and was of the ſame opinion with him in all your <hi>Diſtinctions</hi> and profeſſions of Allegiance and Obedience to our King) proved in concluſion a moſt notorious open <hi>Tray<g ref="char:EOLhyphen"/>tor.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I cannot tell, but I proteſt if the Pope ſhould invade ENGLAND, to diſturb the Peace thereof; I would draw my ſword as ſoon <hi>againſt him, as I did againſt Cromwell.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>So I have heard others (greater then you) to have ſaid, but pray deal fairly and candidly with me, what is it that you would have?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>That's a <hi>Strange</hi> Queſtion at this time of day?</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>It's not <hi>ſtrange:</hi> while I judge by your uncertain Diſcour<g ref="char:EOLhyphen"/>ſes, you know not well what to have.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Why? I would have Liberty to exerciſe Religion accor<g ref="char:EOLhyphen"/>ding to the <hi>Church</hi> of <hi>Rome.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>That's diverſe from what you ask'd before; for the Reli<g ref="char:EOLhyphen"/>gion of the <hi>Church</hi> of <hi>Rome</hi> is, that the Pope has power over our King, and how conſiſts that with your Proteſtation to fight a<g ref="char:EOLhyphen"/>gainſt him (if he Exerciſes that power) equally as againſt <hi>Crom<g ref="char:EOLhyphen"/>well;</hi>
+                  <pb n="20" facs="tcp:41405:15"/> this is one of your <hi>Romiſh</hi> Equivocations, and it may be you did not draw your Sword againſt <hi>Cromwell,</hi> or that you intend the Popes perſonal Invaſion of ENGLAND, which is likely, for the Pope by his Authority given to his Emiſſaries invades ENG<g ref="char:EOLhyphen"/>LAND, and diſturbs its peace every day?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I intend it as fully as can be intended of any ſort of In<g ref="char:EOLhyphen"/>vaſion, or diſturbance of peace by himſelf or others, for it ſuf<g ref="char:EOLhyphen"/>fices me to Exerciſe the <hi>Roman Catholick</hi> Religion, after the man<g ref="char:EOLhyphen"/>ner uſed by the <hi>true-Engliſh-Roman-Catholicks.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Would you Exerciſe a Religion after ſuch a manner, as is not uſed or exerciſed in any one Country whatſoever? Pray <hi>Sir,</hi> give me leave to ask you another <hi>Strange</hi> Queſtion, as you call it? <hi>viz.</hi> Do you think it neceſſary to be of the <hi>Communion</hi> of ſome <hi>Church</hi> or no?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>'Tis ſtrange indeed: Yes, I do think it abſolutely neceſſa<g ref="char:EOLhyphen"/>ry to be of the <hi>Communion</hi> of the Church of ROME, and I am ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Very well: Why are you ſo?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Becauſe my Superior is ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Who is your Superior?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Your pardon for that <hi>Sir.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Is he an ENGLISH <hi>Roman-Catholick</hi> Prieſt now reſiding in ENGLAND?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>He is; and what then? I hope you intend not to inveigle me into a Diſcovery of him to his harm.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>No indeed, I wiſh them all well, well informed, or well out of harms way, but my aim was by that to tell you what I <hi>think,</hi> viz. That, that very Superior of yours is not now, nor has he been for many years laſt paſt, himſelf a <hi>Member</hi> of that <hi>Church,</hi> or of that <hi>Communion,</hi> or if he be, he's but a lame <hi>Mem<g ref="char:EOLhyphen"/>ber.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Sir,</hi> you think ſtrangely, and I muſt tell you, that he is Profeſſor of Divinity, and a Prieſt of the Order of St. <hi>Fran<g ref="char:EOLhyphen"/>cis.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Let him be what he will, or can, I ſay ſtill as I did before, and will Juſtifie it, that's more; but Wee'l let that alone till anon, and I'le be hold to ask you another queſtion, which may not ſeem ſo <hi>Strange</hi> as the former, and that is, how near does <hi>your</hi> Church of <hi>Rome</hi> agree with our Church of <hi>England</hi> in the bu<g ref="char:EOLhyphen"/>ſineſs of <hi>Excommunications.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="21" facs="tcp:41405:15"/>
+               <speaker>Pap.</speaker>
+               <p>What your Church of <hi>England</hi> intends by <hi>Excommunicati<g ref="char:EOLhyphen"/>on,</hi> you know beſt; but our Church of <hi>Rome</hi> holds, That when a Man is Excommunicated by our Church, he is quite cut off from the Church and its <hi>Communion,</hi> and delivered over to Satan, until penance be done and abſolution given to him; and for <hi>it's</hi> power I'le tell you, the Abby of <hi>Fuſuiack</hi> was infeſted with Flies, the Abbot <hi>Clareval,</hi> ſaid <hi>Excommunico eas,</hi> and they were all dead im<g ref="char:EOLhyphen"/>mediately. A white loaf by Excommunication turns as black as a Coal, and being abſolv'd turns juſt as it was; one <hi>Robert Brook</hi> being Excommunicated, the Dogs would not take bones from him.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Why then you have proved your Profeſſor of Divinity, your Franciſcan Prieſt, to be, not onely in a woful condition, but not of the Church of <hi>Rome,</hi> nor of its Communion: For he is, and has been a long time <hi>Excommunicated</hi> by the Pope, for thoſe very <hi>diſtinctions</hi> that you and others dote upon, and have mention'd in this our diſcourſe.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Sure it can't be ſo?</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Do you know <hi>Obedient Peter Walſh?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I have good reaſon to know him, and love him, and ho<g ref="char:EOLhyphen"/>nour him; for he is a Learned Pious and Peaceable minded man.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Why, he it was that tell'd me of the Excommunication I mention.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I can't believe it.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>I verily believe he tell'd it you too.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>On my Credit he tell'd it not to me.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Why, he tell'd it to all the <hi>Engliſh</hi> and <hi>Iriſh</hi> Roman Ca<g ref="char:EOLhyphen"/>tholicks, and writ a Letter to them all, and printed it, and ſaies ſo in that Letter, page 5. 47. 48. So then he is diſabled to offi<g ref="char:EOLhyphen"/>ciate as a Prieſt, and while he remains ſo diſabled, and others of the ſame opinion, as Mr. <hi>Walſh</hi> ſayes, there are five hundred in <hi>England.</hi> What Confeſſors have you, and who can make new ones but the Pope? and will he make any more of the ſame Opi<g ref="char:EOLhyphen"/>nion, or ſuch as are not of his Faith? and what if Prieſts be changed, or change their opinions? as to our <hi>State,</hi> what ſe<g ref="char:EOLhyphen"/>curity can be given againſt it? As for <hi>ye</hi> poor Blinds, ye are al<g ref="char:EOLhyphen"/>ready in the Snare, and how to get out, how know ye? for ye muſt not diſpute (nor can ye for want of knowledge, which is neceſſarily kept from yee) Nor (if ye could) muſt ye diſpute with your Superiors, but ye muſt believe as the Church believes<g ref="char:punc">▪</g>
+                  <pb n="22" facs="tcp:41405:16"/> Yet the reaſon of ſuch belief, ye muſt not inquire into, for the Pope is to Explicate all Matters, and all other Explications are declared void and Null, by Pope <hi>Pius</hi> the Fourth, in a <hi>Bull</hi> for that purpoſe, which <hi>Bull</hi> all Prieſts are ſworn to obey, however your <hi>diſpenſing</hi> Prieſts may wheadle with ye. And in truth it comes to this, that either ſuch a <hi>True Roman Catholick,</hi> as your Confeſſor pretends to be, muſt commit Treaſon, or renounce ſome Articles of Faith, holden by <hi>that</hi> Church, which he adviſes and conjures ye to believe.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Then I hope, ſuch a man deſerves protection and favour here, who for his <hi>Allegiance</hi> to the King runs ſuch a <hi>ba<g ref="char:EOLhyphen"/>zard?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>I can't ſee what protection, or favour he deſerves, for ſuch <hi>Allegiance</hi> or <hi>hazard,</hi> nor can I tell how far ſuch a one is to be truſted, who is a Heretick at <hi>Rome,</hi> and called, <hi>True Roman-Catholick</hi> in <hi>England,</hi> and cannot agree with the King, if the King ſhould agree with him. Let the King do as he pleaſes. Why? is it to be thought that he ſhould yield <hi>due Obedience</hi> to our King, to ſave his Neck, who refuſes <hi>due Obedience,</hi> to his ſupream head of his Church to ſave his Soul?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Judge not too raſhly? for the Franciſcan you ſpeak of is accounted a Man—</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Let him be accounted what he will, and make what pro<g ref="char:EOLhyphen"/>feſſion of Allegiance and Obedience he pleaſes, this I know, That the Phariſees (Chriſts utter Enemies) called themſelves ſo, as <hi>holy Seperaliſts,</hi> as others have called themſelves the Fa<g ref="char:EOLhyphen"/>mily of Love, the Saints, <hi>&amp;c.</hi> The Saduces who denyed the grand Article of Faith, the <hi>Reſurrection,</hi> ſo called as the <hi>righte<g ref="char:EOLhyphen"/>ous.</hi> The learned <hi>Gnoſticks,</hi> and the Robbers <hi>Zealots,</hi> and <hi>Peter Walſh</hi> ſayes, there are <hi>Indifferents, Zealots, Bigots</hi> and <hi>Hypo<g ref="char:EOLhyphen"/>crites</hi> among <hi>them,</hi> ſo call theſe Interpendents between <hi>Pope</hi> and <hi>King,</hi> what you pleaſe: I know what to call them, as be<g ref="char:EOLhyphen"/>fore, and while I think it not ſafe for them to be in either place, ROME or ENGLAND, <hi>&amp;c.</hi> I adviſe them to haſten to a <hi>Locus tertius,</hi> and be ſure they dye in belief of Purga<g ref="char:EOLhyphen"/>tory.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>It's time for us to have done; I <hi>ſee</hi> you are an angry Pro<g ref="char:EOLhyphen"/>teſtant.</p>
+            </sp>
+            <sp>
+               <pb n="23" facs="tcp:41405:16"/>
+               <speaker>Phy.</speaker>
+               <p>I'me glad you can <hi>ſee</hi> me ſomething, and of ſome Church. I cannot ſee what, or of what Church you are, or would be.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>But <hi>Sir,</hi> Do not you think we have travailed ten miles from <hi>London?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Truly, yes, I take it you have travail'd full ten miles.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Then at yonder Sign I'le ſtay and conſider a while.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>
+                  <hi>Sir,</hi> if you ſtay an hour there, I'le come and drink a glaſs of Wine with you.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Content. <hi>Sir.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Farewell.</p>
+            </sp>
+         </div>
+         <div n="2" type="part">
+            <pb n="24" facs="tcp:41405:17"/>
+            <head>THE Second PART.</head>
+            <sp>
+               <speaker>PHY.</speaker>
+               <p>How now <hi>Sir,</hi> what? mounted already? I had hopes to have drank a Bottel of Wine with you, and made haſte ac<g ref="char:EOLhyphen"/>cordingly?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Sir,</hi> I have ſtaied a full hour here, my Landlord affirms ſo, and that is as much as you deſired.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>
+                  <hi>Sir,</hi> I perceive you are a Perſon that ſtints your ſelf in the Duties of Religion and Converſation.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>As long <hi>Sir,</hi> as I fulfil all Commands, I fulfil the Law.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>You may be ſaid to fulfil the Law, and yet at the ſame time not to be obedient to that Law: For, if a man fulfils the Law to ſave the penalty which the Civil Sanction annexes, that's done by force, when as all Obedience is ſpontaneous, and ought to be made from the reaſon of the thing in Morals, for the reaſon of the Command in Indifferents, yet not for the Command ſake, but by Law natural, which injoyns ſuch Commands to be obeyed, as be<g ref="char:EOLhyphen"/>fore I ſaid.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Sir,</hi> you are a ſtrange man, thus to arraign me in my Morals.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>I find good cauſe ſo to do, for what ever Huffs and Bra<g ref="char:EOLhyphen"/>gadocho's ſome of your Clergy make about Demonſtration, I find as they underſtand not, ſo with you of the Laity, you take all things on truſt.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>What reaſon have you to ſay ſo? you know not on what Grounds we go.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Yes, ſince I've met with you, I have well learnt how to judge of you, and that you take things on truſt, as for Exam<g ref="char:EOLhyphen"/>ple,</p>
+               <p n="1">1. You took it on truſt, that <hi>Ogilbies</hi> Wheel had declared it twelve Miles to <hi>Rumford.</hi>
+               </p>
+               <p n="2">
+                  <pb n="25" facs="tcp:41405:17"/>2. You took it on truſt from me (of a different Religion) that you had travail'd ten miles.</p>
+               <p n="3">3. You took it on truſt from your Landlord that you had ſtay<g ref="char:EOLhyphen"/>ed a full hour for me.</p>
+               <p n="4">4. You took it on truſt, that your great <hi>Franciſcan</hi> was of the Communion of the Church of <hi>Rome:</hi> In all which you may be miſtaken, and in the laſt doubtleſs are for the reaſons be<g ref="char:EOLhyphen"/>fore.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>But pray, whither travail you now? Faith, I have been conſidering of ſomewhat you ſaid before, and now you hint at again, <hi>i. e.</hi> If any Prieſt be excommunicated, how can he be a true <hi>Roman Catholick?</hi> therefore, for ought I know, I am none neither, and ſo not within the Proclamation, and ſo may return back again to <hi>London;</hi> however I'le go and inform my ſelf better of theſe things you have mentioned. (I do not doubt, but at another time to anſwer them all fully) if I cannot, I know who can?</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>You had need be better informed indeed. I wiſh you good Information, better then your excommunicated Fryar can give.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I'le tell you ſince you and I parted, I was thinking of you, and of your profeſſion, and wondred that you ſtuck ſo long on Religion, ſince you are counted Atheiſts.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Perhaps ſome may count us ſo, for looking into natural Cauſes and appointing natural Remedies; perhaps the Vulgar may count us ſo, becauſe we ſeldom go to Church, the reaſon of which is manifeſt from the urgency of our Concerns, being on life and death, and not to be neglected.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Yes, truly I have heard the Urgencies are often ſo great and ſo many, that a man is appointed to come frequently into the Church to call out the Doctor, without cauſe, and ſo he cheats God, himſelf, and the whole Congregation.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>What ſome men may do I know not, this I am ſure, the worſt of us all cheats not ſo much as the beſt of your perſwaſion.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I believe I know the reaſon why ſome Phyſitians are ſo an<g ref="char:EOLhyphen"/>gry with our Religion.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>I beſeech you, why are Phyſitians angry with your Reli<g ref="char:EOLhyphen"/>gion, more then others, while even now they had none?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Let their Religion be what it will, they will pretend any Religion rather then ours, for Pope <hi>Greg. 15. anno</hi> 1622. prohibited Catholicks to uſe heretical Phyſitians.</p>
+            </sp>
+            <sp>
+               <pb n="26" facs="tcp:41405:18"/>
+               <speaker>Phy.</speaker>
+               <p>If you have heard of a Book called <hi>Religio Medici,</hi> you will there find good Religion, and the Exterior part thereof ſuch, as may deſerve kindneſs from a Puritan Papiſt, yet contain<g ref="char:EOLhyphen"/>ing himſelf within the juſt bounds of an <hi>Engliſh</hi> Proteſtant.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>It is that very Book came even now into my mind, and I remember he ſayes there, that he thanked God, he did not live in the time of Chriſt and his Apoſtles: And a witty Animadverter (a <hi>Roman Catholick</hi> I will warrant him) ſaid it might be, becauſe his practice would have been ſpoyl'd, for Chriſt and his Apoſtles cured <hi>gratis;</hi> and On my Conſcience, that makes your Profeſſion ſo angry with our Religion?</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Pray, are Papiſts ſo charitable as to cure for nothing? I'me ſure I know ſome Phyſitians of that perſwaſion, who take as much money as they can get.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>All Catholicks are not of one mind, but I remember you talk'd much of your Records, and I'me ſure we have better Re<g ref="char:EOLhyphen"/>cords of more good done by the Phyſick of the Church, then by the Phyſicks of your Colledge and Univerſities.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>The Phyſick of the <hi>Church?</hi> I thought <hi>England</hi> had now been Maſter of all the Methods and Syſtems of Phyſick extant, yet among them I have not met with the Phyſick of the <hi>Church.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>It is a curing after the <hi>Hermitical</hi> way.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>
+                  <hi>Hermetical?</hi> I have read <hi>Hermes Triſmegiſtus,</hi> that excel<g ref="char:EOLhyphen"/>lent Philoſopher, and I think am acquainted with all Medicines and Recipe's Hermetical, Empirical, and Chymical.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Sir,</hi> you miſtake me. I confeſs, that the Science of Phyſick, in all Rules of Art, is more refined in <hi>England,</hi> then was ever be<g ref="char:EOLhyphen"/>fore, but I ſay not <hi>Hermetical</hi> but <hi>Hermitical.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Pray unfold your ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Why there's it now? The unfolding of this Notion <hi>Her<g ref="char:EOLhyphen"/>mitical,</hi> will make you underſtand the Phyſick of the <hi>Church.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Oh! I think I take it now. You mean ſome found out in the Cloyſters, which you call <hi>Church</hi> Phyſick.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I do ſo, and the uſe of the Phyſick would break Doctors, Apothecaries and Chirurgeons.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Pray tell's ſome of it.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Some of it? why I could entertain you from hence to <hi>Lon<g ref="char:EOLhyphen"/>don</hi> with it.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Come, faith, we have been ſerious long enough, now make me merry.</p>
+            </sp>
+            <sp>
+               <pb n="27" facs="tcp:41405:18"/>
+               <speaker>Pap.</speaker>
+               <p>Hold ye there; I'me better appointed, then to ſport with things ſacred: yet what I ſhall tell you, may occaſion a religious mirth, were you rightly diſpoſed?</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>
+                  <hi>Sir,</hi> I can demean my ſelf anſwerable to any Entertain<g ref="char:EOLhyphen"/>ment, and ſhall frame my ſelf to your Converſation: pray be<g ref="char:EOLhyphen"/>gin.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Sir,</hi> I can tell you how to cure Child-bed Griefs, by pray<g ref="char:EOLhyphen"/>ing to St. <hi>Marquerite,</hi> how St. <hi>Marus</hi> Biſhop of <hi>Tryers</hi> cures Pal<g ref="char:EOLhyphen"/>ſeys and Convulſions, St. <hi>Nicholas</hi> cures dangers at Sea, St. <hi>Veniſa</hi> Green-ſickneſſes and Womens Diſeaſes, St. <hi>Lucy</hi> Unchaſtity; and (which is remarkable) St. <hi>Coſma</hi> and St. <hi>Damian,</hi> both Phyſitians, cure all Diſeaſes <hi>gratis,</hi> and purely upon humble requeſt: And St. <hi>Appollonia</hi> being pray'd unto, cures the Tooth-ach, which ne<g ref="char:EOLhyphen"/>ver a Doctor can do; and <hi>I</hi> doubt not but (when St. <hi>Auſtin</hi> ſaid he was cured of the Tooth-ach by prayers) it was by praying to this Saint: And the Arm of St. <hi>David</hi> cures the Plague, without the help of Doctor <hi>Hodge</hi>'s book: And if <hi>I</hi> ſhould tell you all <hi>I</hi> could, eſpecially of the three Kings of <hi>Collen,</hi> viz. St. <hi>Jaſper,</hi> St. <hi>Melchior,</hi> and St. <hi>Balthaſar,</hi> you would <hi>wonder.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>
+                  <hi>I</hi> might <hi>wonder</hi> indeed, and ſo <hi>I</hi> did, when <hi>I</hi> read the late Book, called <hi>Reflections on the Romiſh Devotions,</hi> and <hi>I wondred</hi> again and again, that rational men (in any Age, much leſs in this Age, and in this Climate, where Learning and Knowledge is ſo much refined, improved and ſublimed) ſhould ſo <hi>night-mare</hi> their Vitali<g ref="char:EOLhyphen"/>ties, with a
+<q>—rudis indigeſtaque moles</q> of ridiculous Traſh, and ſuffer themſelves to be blind-folded, wa<g ref="char:EOLhyphen"/>ving their proper Conduct of Reaſon, and following they know not whom, they know not how, they know not whither, eſpecially in their Devotions. And therefore <hi>Sir,</hi> you may forbear your <hi>Hermitical</hi> Diſpenſatory, for <hi>I</hi> am weary of that, and of my Jour<g ref="char:EOLhyphen"/>ney too, therefore let's haſten.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Sir, I</hi> could in a ſhort Diſcourſe ſufficiently make good the Devotions of our Church to the Saints, and enough to convince any rational man.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Truly <hi>Sir, I</hi> muſt confeſs you may tell a great many pretty <hi>Tales,</hi> that might cozen my thoughts of the badneſs of the wayes, and the uneaſineſs of my horſe, &amp; may be ſo far acceptable; but my Judgment will be no way moved to think them ſo much as probably
+<pb n="28" facs="tcp:41405:19"/> true. And <hi>Sir,</hi> the Saints to whom thoſe pretended Miracles are by your Church aſcribed, are all of antient time; and <hi>I</hi> hear not of any modern Saints, that are endowed with ſuch powers: So that it ſhould ſeem your Church has been of late very barren of Saints, or elſe your Saints have been very lazy, and <hi>I</hi> wonder that the Reliques of no late Pope Saints are found.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>As to that <hi>Sir, I</hi> muſt confeſs that theſe Saints <hi>I</hi> have men<g ref="char:EOLhyphen"/>tioned, lived, and were famous under the Government of the Ca<g ref="char:EOLhyphen"/>tholick Biſhop of <hi>Old Rome,</hi> and ſince that the Chriſtian Faith is ſetled, there is no need of extraordinary ways.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>But you know many of the other were not for great ends, but tryals of skill, and now is more need to believe then ever: But why <hi>Old Rome, I</hi> hope you do not mean <hi>Pagan Rome?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>No, <hi>I</hi> mean <hi>old Chriſtian Rome,</hi> when Chriſtianity was firſt planted there.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>You do well to appoint them to Ages ſo long ago, that the truth cannot be inquired into: and <hi>I</hi> will tell you my Conceit how theſe Fables firſt came up. The Heathens, being guilty of <hi>Idolatry,</hi> worſhipping ſtocks, ſtones, Images, imaginary Deities and Devils, the ignorant Chriſtians in thoſe dark times, to draw them into the Chriſtian Religion by degrees, might uſe a kind of a <hi>pious</hi> fraud, in altering the then Worſhip from thoſe <hi>Objects,</hi> and ſub<g ref="char:EOLhyphen"/>ſtituting in their room the <hi>Images</hi> of the Trinity, Angels, Saints and holy Chriſtians: So came the vain repetitions of Prayers, as the Heathens uſe 6, <hi>Mat.</hi> 7. And perhaps <hi>Dominus Deus Papae</hi> ſo ſuc<g ref="char:EOLhyphen"/>ceeded <hi>Deus Antoninus,</hi> and <hi>Dominus Deus Domitianus;</hi> and becauſe <hi>Dea Pecunia</hi> had a Temple in <hi>Rome,</hi> Money has been ſince as much worſhipped there as <hi>Juno Moneta,</hi> and the <hi>votivae tabulae</hi> hung up in your Churches to the Virgin <hi>Mary</hi> and Saints, <hi>&amp;c.</hi> after Diſeaſes cured, were the ſame as was done among the Pagans, (<hi>viz</hi>) to <hi>Iſis</hi> in <hi>Aegypt,</hi> and ſo in <hi>Rome,</hi> like our late Mountebanks Catalogues of Cures, which might take by the ſemblance of their Worſhip, and ſo by degrees draw them quite off to the true Chriſtian Wor<g ref="char:EOLhyphen"/>ſhip. Which deſign not only took effect, but the ſucceeding Ages proving ſottiſh and unlearned, contented themſelves with what an Infant Chriſtian Age had done, and continued that worſhip, part Heathen, part Chriſtian, and grew into a belief, that the fabulous Mouſetraps, made to catch Pagans and bring them into the Church, were the true Goſpel Engines to bring Chriſtians to Heaven: So the <hi>Inquiſition</hi> was firſt invented as a Trap againſt <hi>Moors,</hi> after a
+<pb n="29" facs="tcp:41405:19"/> ſnare for ſheep; which ſenſeleſs Dotage has ever ſince bewitc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ed the fooliſh <hi>Romans,</hi> and has the face to confront this inquiſi<g ref="char:EOLhyphen"/>tive Age, juſt like the man, that by frequently telling of a Lye<g ref="char:punc">▪</g> came at laſt to believe it.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Truly, <hi>Sir,</hi> your conceit may have ſomething of Truth in it, as to the converſion of the Heathens into the Chriſtian Religion by the <hi>Catholick Church</hi> of <hi>Old Rome:</hi> But that the way of Worſhip and Devotion, continued by them for ſo many hundred years, ſhould deſerve your harſh and profane language<g ref="char:punc">▪</g> I underſtand not, for the primitive Church was (doubtleſs) as wiſe as the Church at any time ſince.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>That the primitive <hi>Catholick</hi> Church, was as wiſe as the Church has at any time ſince been, I agree; and ſo was the Pri<g ref="char:EOLhyphen"/>mitive <hi>Romiſh Church,</hi> when St. <hi>Paul</hi> and St. <hi>Peter</hi> were there, but I know when it failed in its Wiſdom and Worſhip; and you your ſelf admit, it's not ſo wiſe now, by your diſtinction of <hi>Old Rome</hi> and <hi>New Rome.</hi> Pray unfold that a little.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>The <hi>Catholick</hi> Biſhop of <hi>Old Rome</hi> never pretended to an Univerſal Monarchy, both in Spirituals, and Temporals, over the whole Earth, as the Biſhop of <hi>New Rome</hi> doth, and to be Superi<g ref="char:EOLhyphen"/>or to other Sov'raign Princes in civil matters, and as to that point I call <hi>this New Rome,</hi> from this <hi>New Doctrine,</hi> which I op<g ref="char:EOLhyphen"/>poſe as ſtrongly as any Proteſtant.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>
+                  <hi>Sir,</hi> I ſhould have thought, that the difference you make between <hi>Old Rome,</hi> and <hi>New Rome,</hi> had been with reference to <hi>Phyſick,</hi> for that <hi>Old Rome</hi> was contented with the renowned <hi>Ae<g ref="char:EOLhyphen"/>ſcalapius,</hi> who cured diſeaſes after the method we now uſe, and <hi>New Rome</hi> (it ſeems) fancies curing after the <hi>Hermitical</hi> way, as you ſay; But pray, Sir, did your Prieſt adopt you into the Com<g ref="char:EOLhyphen"/>munion of <hi>Old Romes,</hi> or <hi>New Romes</hi> Church? Or, did he tell you the difference between the Doctrines and Worſhip of one or the other? I doubt not. Yet, you ſay true in ſaying it's a <hi>Doctrine,</hi> and a <hi>New Doctrine,</hi> for it was made ſuch, by the Council of <hi>La<g ref="char:EOLhyphen"/>teran,</hi> and the Council of <hi>Lyons,</hi> and not before. So it is that the Pope may <hi>diſpence</hi> with Oathes, and in execution of that Article in Queen <hi>Elizabeths</hi> time, ſuch <hi>diſpenſations</hi> were intercepted in their journy, to the <hi>Steady Roman Church Catholicks</hi> in <hi>Scotland,</hi> pretend<g ref="char:EOLhyphen"/>ing as your Superiors do, and by thoſe diſpenſations the <hi>Roman-Catholicks</hi> (in general) were allowed to <hi>promiſe, Swear, Subſcribe, and do what elſe ſhould be required of them, ſo as in mind they continued
+<pb n="30" facs="tcp:41405:20"/> firm, and did uſe their diligence to advance (in ſecret) the Roman Faith?</hi> The remembrance of which occaſion'd King <hi>James,</hi> to provide as he did againſt Aequivocal profeſſions, and pretences of Allegi<g ref="char:EOLhyphen"/>ance. Now then, how can one be of the Communion of that Church, who differs from that Church in point of faith (if the Pope or his Councels may be believed to determine Articles of faith) if Mr. <hi>Creſſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y</hi> faies true in his Book, in which he gives ac<g ref="char:EOLhyphen"/>count of his converſion to the <hi>Romiſh Communion; (viz.</hi>) That it's impoſſible, that <hi>Catholicks</hi> ſhould differ in point of Faith, or that Schiſm ſhould be in <hi>their</hi> Church, which is grounded on ſingular reaſon; for if he differs in Faith, he ceaſes to be a <hi>Catholick,</hi> and when one is Schiſmatick he ceaſes to be of that <hi>Church.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Well, <hi>True Roman-Catholicks</hi> do hold ſo; and that makes all of your Church Hereticks and Schiſmaticks, and out of our <hi>Communion.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>In good time, good Fellow Travailer, does it ſo? Why? then that very thing (if ſo) makes your <hi>True Engliſh Roman Church Catholicks,</hi> Hereticks, Schiſmaticks, and not of the Communion of the <hi>Romiſh Church,</hi> to which they have ſo generally and <hi>un<g ref="char:EOLhyphen"/>diſtinguiſhingly</hi> profelyted you, and indeavour to inveigle others. Judge ye now therefore, whether theſe Phanatick Papiſts mean good faith to you, or to their Natural Prince, when they pretend Allegiance to their Liege Lord, and do deny Supremacy to the Pope, in Civil and Eccleſiaſtical Juriſdiction here, and accuſe their Church to <hi>Err</hi> in ſuch pretences, and in ſome matters of Faith, to their utter ſeverance from that <hi>Church-Communion,</hi> and Protection; and yet at the ſame time, with all Subtilty and wilely Arts are <hi>Diſcipling Engliſh</hi> Men, in the <hi>Faith</hi> and <hi>Communion</hi> of the Church of <hi>Rome,</hi> generally without any Reſtriction or <hi>Limita<g ref="char:EOLhyphen"/>tion.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>It is enough for us (of the Laity) to believe as the Church believes, in matters which concern us, as Practiſe and Worſhip, &amp;c. And for the difficult points of Faith and Diſputation, let out Superiors (whoſe duty it is) look to them, for we ſhall anſwer for no more then we <hi>know,</hi> or are <hi>Taught.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>
+                  <hi>Know?</hi> or are <hi>taught?</hi> Will ye ſuffer your Ears to be ſtop<g ref="char:EOLhyphen"/>ped, and excuſe your not <hi>hearing,</hi> not <hi>knowing,</hi> and not being <hi>taught?</hi> and lay all on him who ſtopped your Ears with your own conſent? Come, <hi>Sir,</hi> conſider, whether it will add any pleaſure to your Travail, to go to Hell on another mans back? Or, if you
+<pb n="31" facs="tcp:41405:20"/> ſay to the Devil <hi>he</hi> brought me hither, pray let <hi>me</hi> go back to whence I came, and keep <hi>him:</hi> will <hi>Old Nick</hi> releaſe you? No<g ref="char:punc">▪</g> Therefore get out of your <hi>Fetters</hi> and dureſs, break forth from your Ignorant <hi>Shackles,</hi> ſearch and try, whether your <hi>Pope</hi> in <hi>Church,</hi> and <hi>Pope</hi> in <hi>Court</hi> agree, then whether your <hi>Confeſſor</hi> agrees with <hi>Pope</hi> or <hi>Court,</hi> or <hi>Church,</hi> or with the <hi>Communion</hi> of any one <hi>Country</hi> Catholick or other, and you'l eaſily find him to be ſo far only like unto the Pope, as an <hi>Heteroclite</hi> in Religion, either de<g ref="char:EOLhyphen"/>ficient or redundant, and not to be brought under any rule? Then conſider further, &amp; uſe due and utmoſt ſearches according to your circumſtances with the aid of Divine Aſſiſtance, whether it be not better to be guided by the <hi>Pope</hi> within you, (<hi>viz.</hi>) your own rea<g ref="char:EOLhyphen"/>ſon ſo informed, which was placed there (as was ſaid) to diſtin<g ref="char:EOLhyphen"/>guiſh you from a <hi>Brute,</hi> that can, go, ſtand, do, &amp;c. as he is taught, or at leaſt by a <hi>Church,</hi> in whoſe <hi>Conduct</hi> you may have rational ſa<g ref="char:EOLhyphen"/>tisfaction in all the points of its profeſſion: So then if your <hi>Pope,</hi> your <hi>Councils,</hi> your <hi>Church,</hi> do <hi>err</hi> (as your <hi>true Engliſh<g ref="char:punc">▪</g> Roman-Catholicks</hi> ſay they do) in Doctrinals in matters of Faith, How can you be aſſur'd, that your <hi>Runigate</hi> Prieſts do not err<g ref="char:punc">▪</g> in the matters they inculcate into your eaſy heads? and in that unintel<g ref="char:EOLhyphen"/>ligible Faith, which is againſt ſence and reaſon and their own Judgments? And how can you then be aſſured they <hi>err</hi> not in worſhip, which is of leſs weight?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Conſtant Uſage and Approbation are ſufficient grounds for me in that. However you may ſee, that we Roman Catholicks of this perſwaſion, ſubmit our ſelves to the Laws of the Land, are willing to give ſecurity for not diſturbing the pe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce, and of our Allegiance to the King, and ſo in Juſtice are intitled to the Kings protection, and deſerve not to be lyable to the penal Laws, inten<g ref="char:EOLhyphen"/>ded purely againſt the Papiſts of the <hi>Court</hi> of <hi>Rome.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Very well, we are now come to the end of the Journey whence we began, and ſo in our Diſcourſe, (<hi>viz.</hi>) to the Diſtin<g ref="char:EOLhyphen"/>ction of <hi>Church</hi> of <hi>Rome</hi> and <hi>Court</hi> of <hi>Rome</hi> Papiſts, and <hi>I</hi> am ſtill of opinion, that neither ought to be ſuffered here: For were it poſſible to believe, that all the <hi>Engliſh Romiſh</hi> Catholicks were ſuch Mungrel Papiſts, as you pretend to be, that is, to obey the Pope in part, and our King in part, as has been ſaid, as is plain they are not, as appears by the oppoſition of moſt of them to the formu<g ref="char:EOLhyphen"/>lary or remonſtrance mentioned by <hi>Peter Walſh;</hi> yet even <hi>they</hi> are not to be truſted here with ſafety to the King. For what ſecurity
+<pb n="32" facs="tcp:41405:21"/> can there be given, that the <hi>Roman Catholick,</hi> who is falſe to the Pope, ſhould be faithful to the King, that one can ſerve two Ma<g ref="char:EOLhyphen"/>ſters, pretending to Equality with equal faithfulneſs, that one who is excommunicated by his own Church ſhould keep faith with another Church, that one who is notoriouſly perjured ſhould be believed: That one who is of the Church of <hi>Rome,</hi> ſhould be bound by that Oath, which his Church condemns, and frequent<g ref="char:EOLhyphen"/>ly diſpenſes with, and he owns: that one who is ſo eaſie as to believe the ridiculous Fables of <hi>Old Rome,</hi> may not as eaſily be drawn over to the rebellious faults of the <hi>New Rome;</hi> and <hi>Peter Walſh</hi>'s aſſurance for his party is juſt as valuable, as his part<g ref="char:EOLhyphen"/>ner <hi>Creſſy</hi>'s, for the Jeſuits, and what Credit can be given to one who brake his Oath to this Church, and then did as much to the other, and is now poſſeſſed with, or by, the Devil, being delive<g ref="char:EOLhyphen"/>red over to Satan? Beſides 'tis obvious, how dangerous it is to indulge that: ſort of people, by the ſtir they have lately made in publick declaimings againſt the Religion of this Kingdom, and the diſturbance of this Churches peace, which is an ill requital for the Kings gracious Clemency, and has awake<g ref="char:EOLhyphen"/>ned thoſe laws, which otherwiſe might have ſlept ſtill. And how can that Papiſt be believed to be true and faithful to that King whom he takes to be an Heretick, and will infallibly be damned? How can a Popiſh Fanatick, who believes all the <hi>Enthuſiaſmes</hi> al<g ref="char:EOLhyphen"/>lowed in the Romiſh Church (<hi>viz.</hi>) the Revelations of Mother <hi>Juliana,</hi> the Preface to <hi>Sancta Sophia</hi> 
+                  <q>who thirſts after the lights which do expell all Images of Creatures, and calm all manner of paſſions to the end that the Soul being in <hi>vacuity</hi> may be more capable of entertaining God, in the pure fund of the Spirit, who is in poſſeſſion of the <hi>Deiform</hi> fund of the Soul, which is the ſimple Eſſence of the Soul ſtamped with Divine Impreſs, from whence ariſeth a ſupereſſential life, being a way of know<g ref="char:EOLhyphen"/>ing without thoughts, of ſeeing in darkneſs, of underſtand<g ref="char:EOLhyphen"/>ing without reaſon<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, of unknowing God by perceiving, of being melted and brought to nothing firſt, and then being loſt and ſwallowed up in God, by which means all created being is put off, and that which is only Divine put on, being changed into God as Iron heated into the nature of fire, which is attain<g ref="char:EOLhyphen"/>ed to by ſeeking God in the Obſcurity of Faith, with a more profound introverſion of the Spirit, which is the State of No<g ref="char:EOLhyphen"/>thingneſs, or of Totality, or the <hi>unica</hi> of <hi>Nothing</hi> with <hi>Nothing,</hi>
+                     <pb n="33" facs="tcp:41405:21"/> by which the Soul comes to a feeling of her not being, and by conſequence of the not being of Creatures?</q> I ſay how can ſuch a one, who muſt firſt be mad before he can know he is in his wits, expect any better Entertainment in <hi>England,</hi> then the three late <hi>York-ſhire</hi> Quakers had at <hi>Rome (viz.)</hi> as being diſmiſſed as Mad-men: They being in <hi>France</hi> ſhaved to cure that Frenzy, which oft by ſhaving is occaſioned, and ſuch as this, are ſome of your. <hi>Romiſh Church Catholicks,</hi> nay even the <hi>Superiors,</hi> as they have teſtified to the World in <hi>Print,</hi> and why may not ſuch a <hi>Ro<g ref="char:EOLhyphen"/>miſh Church Quaker,</hi> who attains knowledge after a <hi>Myſtical</hi> way by the <hi>Impulſes of the Spirit</hi> only, extravagate ſoon into civil af<g ref="char:EOLhyphen"/>fairs as well as Father <hi>White,</hi> who never read Mathematicks (as he ſayes) and without the Help of Humane Learning, attain to the perfect knowledge of the <hi>Quadrature</hi> of the Circle? And how are theſe <hi>Formulary</hi> men to be believed, while they can (to the Pope) excuſe their <hi>remonſtrance</hi> of Allegiance to their King, by ſaying that they only <hi>acknowledge,</hi> but do <hi>not ſwear it? that they do not Condemn the opinion contrary to the Oath, nor do they declare that the Pope cannot diſpenſe with the Oath or any part of it?</hi> Let any one Judge now, comparing their <hi>remonstrance</hi> to the King, and their <hi>Decla<g ref="char:EOLhyphen"/>ration</hi> to the Pope, what manner of Allegiance, and Obedience, the King may expect from them, eſpecially it being declared by the Council of <hi>Toledo,</hi> in the time of <hi>Innocent</hi> the ſixth, That laws as to Eccleſiaſtical perſons bind not <hi>ad culpam,</hi> but <hi>ad poenam;</hi> And by <hi>Aquinas, Monks</hi> are only bound to <hi>profeſs,</hi> not to <hi>keep</hi> the rules of St. <hi>Benedict:</hi> juſt ſo are our <hi>True Engliſh Roman Catholicks</hi> bound to <hi>profeſs</hi> and <hi>owe</hi> (as you call it) Allegiance, but how, or when, to <hi>keep</hi> or <hi>pay</hi> it, who can he aſſured thereof? And their ſtories tell us, That the Devil appeared to Fryar <hi>Ruffin</hi> in <hi>form</hi> of Chriſt. And what ſecurity is there by that <hi>Oath</hi> taken by them, while the ſame perſons taking that Oath, can confidently aſſure the Pope, That <hi>they do not condemn the opinion contrary to that Oath, nor do they de<g ref="char:EOLhyphen"/>clare that the Pope cannot diſpenſe with that Oath, or any part of it,</hi> which is as much as to ſay, and believe, that the Pope can diſpenſe there<g ref="char:EOLhyphen"/>with, which they may more eaſily believe, then that the Pope can diſpenſe with St. <hi>Pauls</hi> Epiſtles, with the New Teſtament, with the Old and New Teſtament, with the whole law of God, and (to com<g ref="char:EOLhyphen"/>pleat the Popes power) <hi>He</hi> can in a manner do all things that God can do, which ſeveral Tenets, are holden by <hi>true Roman Catholicks,</hi> and others have affirmed that the Pope is, above Law,
+<pb n="34" facs="tcp:41405:22"/> againſt Law, without Law, and can do all things, and that in all Oaths the Popes Power is excepted: And laſtly, if ſome of your <hi>Superiours</hi> ſhould be true to their word or Oath, ſuch as it is and ſo commenced upon, and explained as before, what Aſſu<g ref="char:EOLhyphen"/>rance can be given, That ſuch Muſhrom Papiſts as you, ſhall be al<g ref="char:EOLhyphen"/>waies guided by <hi>them,</hi> and not at ſometime or other procreate or tranſmute into Hornets and Waſps, <hi>Garnets</hi> or <hi>Venners,</hi> or that un<g ref="char:EOLhyphen"/>der colour or pretence of <hi>meek Nothings, who live by the Effects of ſupernatural Inactions of God, Rapts and Extaſies,</hi> other <hi>Baronian</hi> wretches may not intrude, uſing the ſame <hi>vizor</hi> for a while, and when occaſion and opportunity ſhall ſerve, then cry aloud as ſome have done, <hi>Our Lord God the Pope which haſt all power in heaven and earth.</hi> Then (in earneſt) would be advanced the <hi>moſt illuſtrious name of Britiſh and Iriſh Catholicks, that name of names, and moſt glo<g ref="char:EOLhyphen"/>rious of Titles,</hi> as indeed it is but venerated by that great <hi>Franciſ<g ref="char:EOLhyphen"/>can</hi> with that nick name <hi>Roman,</hi> and eſpecially <hi>Walſhes</hi> Letter, &amp;c. p. 5. againſt all which (I hope) Soveraign Notice and Caution will arm it ſelf, and that before it be too late, for (as <hi>Plantus) Qui cavet ne decipiatur, vix cavet, cum etiam cavet, quando enim caviſſe ratu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> eſt, ſape is Cautor captus eſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>You talk of <hi>Mad-men,</hi> I think you will ſhow your ſelf ſuch, I'me glad I am near my journeys end; I ſhall part with you <hi>here</hi> at <hi>Bow-bridge,</hi> and go the back way, I like not your company now, and ſhall not truſt my ſelf with you in the City, leaſt <hi>you diſcover</hi> me.</p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>Truly <hi>Sir,</hi> I have made as much <hi>diſcovery</hi> of you as I deſire, and I <hi>diſcover</hi> (beſides your Religious impertinencies) your O<g ref="char:EOLhyphen"/>bedience to the Kings commands to be juſt, as much as that of Mr. <hi>Ogilbies wheel, viz.</hi> mearly to meaſure ſo much of the road as the driver pleaſes and no more: I wiſh you (again) better informed and ſo farewell. But <hi>Sir,</hi> pray ſtop but a little while, and I'le tell you a ſignificant piece of Religion of a Souldier of the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Rome, Old Rome,</hi> older then your Biſhop of <hi>old Rome, Cae<g ref="char:EOLhyphen"/>ſar,</hi> who ſeeing this Souldier fighting with moſt accurate valour, beſet with many Foes, yet forced his way through them all, and eſcaped through great mires, waters and great difficulties, with only the loſs of his ſhield, ran to the Souldier to imbrace him and to incourage and reward his incomparable proweſs; the true hearted Souldier, out of Sence to his Duty and Obedience, which by the Law (written in his heart) he owed to his Prince, was ſo
+<pb n="35" facs="tcp:41405:22"/> far from being tranſported with the glory of his Action, or the value ſet thereon by <hi>Caſar</hi>'s Approbation, that (with Tears in his eyes) he asked pardon of him, that he had left his Target be<g ref="char:EOLhyphen"/>hind him.</p>
+               <p>And <hi>Sir,</hi> before we part, I have another thing come in my head, and that is, I have a deſire to ſend you a memorable <hi>Record,</hi> which I have in my Study; it is the Opinion of the <hi>Judges, Nobi<g ref="char:EOLhyphen"/>lity</hi> and <hi>Clergy</hi> of <hi>England,</hi> concerning the Kings Supreme Eccle<g ref="char:EOLhyphen"/>ſiaſtical Power, with reference both to <hi>Papiſts</hi> and <hi>Puritans,</hi> pray, how may I direct it to you?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>Sir,</hi> I ſhall give it the peruſal; you may incloſe it in a Pa<g ref="char:EOLhyphen"/>per, directed to Mr. <hi>Juſtin Hide,</hi> and leave it at the Book-ſellers at <hi>Graies-Inn Gate.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phy.</speaker>
+               <p>I ſhall <hi>Sir,</hi> and once more <hi>Farewel.</hi>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="record">
+            <pb n="37" facs="tcp:41405:23"/>
+            <head>THE RECORD OF 2<hi rend="sup">o</hi>. Febr. 2. JACOBI.</head>
+            <p>
+               <hi>MEmorandum,</hi> that by Command from the King, all the Ju<g ref="char:EOLhyphen"/>ſtices of <hi>England,</hi> with diverſe of the Nobility, (<hi>viz.</hi>) the Lord <hi>Elleſmere</hi> Lord <hi>Chancellour,</hi> the Earl of <hi>Dorſet</hi> Lord <hi>Treaſurer,</hi> Viſcount <hi>Cranborn</hi> Princi<g ref="char:EOLhyphen"/>pal<note place="margin">2 Croke 37. Moore 755.</note> 
+               <hi>Secretary,</hi> the Earl of <hi>Nottingham</hi> Lord <hi>Admiral,</hi> the Earls of <hi>Northumberland, Worceſter, Devon</hi> and <hi>Northampton,</hi> the Lord <hi>Zouch, Burleigh</hi> and <hi>Knowles,</hi> the Chan<g ref="char:EOLhyphen"/>cellour of the <hi>Dutchy,</hi> the Arch-biſhop of <hi>Canterbury,</hi> the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>London, Popham</hi> chief <hi>Juſtice, Bruce</hi> Maſter of the <hi>Rolls, Anderſon, Gawdy, Walmsley, Femier, Kingſmith, Warberton, Sa<g ref="char:EOLhyphen"/>vel, Daniel, Yelverton</hi> and <hi>Snigg</hi> were aſſembled in the <hi>Star-Cham<g ref="char:EOLhyphen"/>ber,</hi> where the Lord <hi>Chancellour</hi> after a long ſpeech, made by him concerning <hi>Juſtices</hi> of Peace, and his Exhortation to the Juſtices of Aſſiſe, and a D<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ouſe concerning <hi>Papiſts</hi> and <hi>Puri<g ref="char:EOLhyphen"/>tans,</hi> declaring how they both vvere <hi>Diſturbers of the State,</hi> and that the King intending to ſuppreſs them, and to have the Laws put in Execution againſt them, demanded of the <hi>Juſtices</hi> their Reſolutions in three things: <hi>Firſt,</hi> vvhether the Depri<g ref="char:EOLhyphen"/>vation of <hi>Puritan Miniſters</hi> by the high Commiſſioners, for re<g ref="char:EOLhyphen"/>fuſing to conform themſelves to the Ceremonies appointed, by the laſt Canons vvas lawful? Whereto all the <hi>Juſtices</hi> anſwe<g ref="char:EOLhyphen"/>red, That they had conferred thereof before, and held it to
+<pb n="38" facs="tcp:41405:23"/> be lawful, becauſe <hi>the King hath the Supreme Eccleſiaſtical Pow<g ref="char:EOLhyphen"/>er,</hi> vvhich he hath delegated to the Commiſſioners, vvhere<g ref="char:EOLhyphen"/>by they had the power of Deprivation by the Common Law of the Realm: And the Statute of 1. <hi>Eliz.</hi> which appoints Commiſſioners to be made by the Queen, doth not confer a<g ref="char:EOLhyphen"/>ny new Power, but explain and declare the <hi>ancient Power:</hi> And therefore they held it clear, <q>That the King without Parliament might make Orders and Conſtitutions for the Government of the Clergy, and might deprive them if they obeyed not:</q> And ſo the Commiſſioners might deprive them; but they could not make any Conſtitutions vvithout the King; and the divulging of ſuch Ordinances by <hi>Procla<g ref="char:EOLhyphen"/>mation</hi> is a moſt gratious Admonition, and for as much as they have refuſed to obey, they were lawfully deprived by the Commiſſioners, <hi>ex Officio,</hi> without Libel, and <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re tenus convocati. Secondly.</hi> Whether a Prohibition be grantable a<g ref="char:EOLhyphen"/>gainſt the Commiſſioners upon the Statute 2 <hi>H.</hi> 5. if they do not deliver a Copy of the Libel to the Party? Whereto they all anſwered, That the Statute is intended where the Eccle<g ref="char:EOLhyphen"/>ſiaſtical Judge proceeds <hi>ex Officio &amp; ore tenus. Thirdly.</hi> Whe<g ref="char:EOLhyphen"/>ther it were an offence puniſhable, and what puniſhment they deſerved, who framed Petitions, and collected a Multitude of hands thereto, to prefer to the King in a publick Cauſe, as the <hi>Puritans</hi> had done vvith an Intimation to the King, That if he denyed their Suit many thouſands of his Subjects would be diſcontented: Whereto all the Juſtices anſwered, That it vvas an Offence finable at Diſcretion, and very near to Treaſon and Felony in the Puniſhment, for they ten<g ref="char:EOLhyphen"/>ded to the raiſing of Sedition, Rebellion and Diſcontent among the people. To which reſolution all the Lords a<g ref="char:EOLhyphen"/>greed; And then many of the Lords declared, that ſome of the <hi>Puritans</hi> had raiſed a falſe rumour of the King, how he intended to grant a <hi>Toleration</hi> to <hi>Papiſts,</hi> which Offence the Juſtices conceived to be heinouſly finable by the rules of the Common-Law, either in the Kings Bench, or by the King and his Council, or now ſince the Statute of 3 H. 7. in the <hi>Star. Chamber:</hi> And the Lords ſeverally declared, how the King vvas diſcontented vvith the ſaid falſe Rumour, and had made but the day before a proteſtation unto them, that he never in<g ref="char:EOLhyphen"/>tended
+<pb n="38" facs="tcp:41405:24"/> it; And that he vvould ſpend the laſt drop of bloo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in his Body before he vvould do it; And prayed that before a<g ref="char:EOLunhyphen"/>ny of his Iſſue ſhould maintain any other Religion then vvh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he truly profeſſed and maintained, that God vvould take them o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the World.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:41405:24"/>
+         </div>
+      </back>
+   </text>
+</TEI>
